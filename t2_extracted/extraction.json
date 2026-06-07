@@ -1,0 +1,4039 @@
+{
+  "source_file": "t2.pdf",
+  "page_count": 1,
+  "fonts": {
+    "AAAAAA+Poppins-Bold": "t2_extracted/fonts/AAAAAA_Poppins-Bold.ttf",
+    "BAAAAA+Poppins-Regular": "t2_extracted/fonts/BAAAAA_Poppins-Regular.ttf"
+  },
+  "subset_fonts": {
+    "AAAAAA+Poppins-Bold": {
+      "base_name": "Poppins-Bold",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    },
+    "BAAAAA+Poppins-Regular": {
+      "base_name": "Poppins-Regular",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "width_pt": 595.5,
+      "height_pt": 842.25,
+      "is_scanned": false,
+      "elements": [
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.5,
+          "height": 842.25,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.75,
+          "origin": "pymupdf",
+          "id": "p1_elem_0001"
+        },
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.72,
+          "height": 842.57,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.86,
+          "origin": "pymupdf",
+          "id": "p1_elem_0002"
+        },
+        {
+          "type": "rectangle",
+          "x": -29.34,
+          "y": 835.99,
+          "width": 654.14,
+          "height": 38.0,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0003"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.23,
+          "y": 308.62,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 2.25,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0004"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.23,
+          "y": 582.38,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 2.25,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0005"
+        },
+        {
+          "type": "rectangle",
+          "x": 36.46,
+          "y": 371.15,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 0.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0006"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.23,
+          "y": 420.6,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 0.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0007"
+        },
+        {
+          "type": "rectangle",
+          "x": 31.99,
+          "y": 471.94,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 0.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0008"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.23,
+          "y": 519.8,
+          "width": 527.04,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#000000",
+          "stroke_width": 0.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0009"
+        },
+        {
+          "type": "rectangle",
+          "x": -107.02,
+          "y": 818.95,
+          "width": 849.29,
+          "height": 178.65,
+          "fill_color": "#287A9C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 89.32,
+          "origin": "pymupdf",
+          "id": "p1_elem_0010"
+        },
+        {
+          "type": "rectangle",
+          "x": 326.08,
+          "y": -161.71,
+          "width": 522.01,
+          "height": 181.82,
+          "fill_color": "#287A9C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 90.91,
+          "origin": "pymupdf",
+          "id": "p1_elem_0011"
+        },
+        {
+          "type": "rectangle",
+          "x": -22.88,
+          "y": -196.95,
+          "width": 303.62,
+          "height": 333.74,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0012"
+        },
+        {
+          "type": "rectangle",
+          "x": 38.01,
+          "y": 79.08,
+          "width": 34.85,
+          "height": 36.02,
+          "fill_color": "#9BBBDD",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0013"
+        },
+        {
+          "type": "rectangle",
+          "x": 325.95,
+          "y": -161.65,
+          "width": 521.6,
+          "height": 181.75,
+          "fill_color": "#28799C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0014"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.22,
+          "y": 305.28,
+          "width": 526.84,
+          "height": 6.46,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0015"
+        },
+        {
+          "type": "rectangle",
+          "x": 36.46,
+          "y": 368.54,
+          "width": 526.83,
+          "height": 4.96,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0016"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.22,
+          "y": 417.96,
+          "width": 526.83,
+          "height": 4.96,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0017"
+        },
+        {
+          "type": "rectangle",
+          "x": 31.98,
+          "y": 469.29,
+          "width": 526.83,
+          "height": 4.96,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0018"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.22,
+          "y": 517.13,
+          "width": 526.83,
+          "height": 4.96,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0019"
+        },
+        {
+          "type": "rectangle",
+          "x": 34.22,
+          "y": 578.93,
+          "width": 526.84,
+          "height": 6.46,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0020"
+        },
+        {
+          "type": "rectangle",
+          "x": -106.98,
+          "y": 818.64,
+          "width": 849.26,
+          "height": 178.58,
+          "fill_color": "#28799C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0021"
+        },
+        {
+          "type": "rectangle",
+          "x": -29.33,
+          "y": 835.68,
+          "width": 653.93,
+          "height": 37.98,
+          "fill_color": "#28799C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0022"
+        },
+        {
+          "type": "image",
+          "x": 38.02,
+          "y": 79.11,
+          "width": 16.8,
+          "height": 36.02,
+          "file_path": "t2_extracted/images/page1_path0000.png",
+          "origin": "pymupdf_rasterized",
+          "id": "p1_elem_0023"
+        },
+        {
+          "type": "image",
+          "x": 57.56,
+          "y": 79.15,
+          "width": 15.31,
+          "height": 35.99,
+          "file_path": "t2_extracted/images/page1_path0001.png",
+          "origin": "pymupdf_rasterized",
+          "id": "p1_elem_0024"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE",
+          "x": 325.67,
+          "y": 51.01,
+          "baseline_y": 114.7,
+          "char_origins": [
+            [
+              325.67,
+              "I"
+            ],
+            [
+              341.14,
+              "N"
+            ],
+            [
+              384.32,
+              "V"
+            ],
+            [
+              426.18,
+              "O"
+            ],
+            [
+              471.42,
+              "I"
+            ],
+            [
+              486.89,
+              "C"
+            ],
+            [
+              530.68,
+              "E"
+            ]
+          ],
+          "width": 237.83,
+          "height": 84.92,
+          "font_family": "Poppins-Bold",
+          "font_size": 60.65,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0025"
+        },
+        {
+          "type": "text",
+          "value": "ISSUED TO:",
+          "x": 38.02,
+          "y": 165.11,
+          "baseline_y": 181.49,
+          "char_origins": [
+            [
+              38.02,
+              "I"
+            ],
+            [
+              43.09,
+              "S"
+            ],
+            [
+              53.16,
+              "S"
+            ],
+            [
+              63.22,
+              "U"
+            ],
+            [
+              74.68,
+              "E"
+            ],
+            [
+              83.59,
+              "D"
+            ],
+            [
+              95.4,
+              " "
+            ],
+            [
+              99.18,
+              "T"
+            ],
+            [
+              108.86,
+              "O"
+            ],
+            [
+              121.59,
+              ":"
+            ]
+          ],
+          "width": 88.0,
+          "height": 21.84,
+          "font_family": "Poppins-Bold",
+          "font_size": 15.6,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0026"
+        },
+        {
+          "type": "text",
+          "value": "Benjamin Shah",
+          "x": 38.02,
+          "y": 192.33,
+          "baseline_y": 206.66,
+          "char_origins": [
+            [
+              38.02,
+              "B"
+            ],
+            [
+              46.8,
+              "e"
+            ],
+            [
+              55.67,
+              "n"
+            ],
+            [
+              64.81,
+              "j"
+            ],
+            [
+              68.6,
+              "a"
+            ],
+            [
+              78.24,
+              "m"
+            ],
+            [
+              92.7,
+              "i"
+            ],
+            [
+              96.47,
+              "n"
+            ],
+            [
+              105.61,
+              " "
+            ],
+            [
+              109.66,
+              "S"
+            ],
+            [
+              118.08,
+              "h"
+            ],
+            [
+              127.23,
+              "a"
+            ],
+            [
+              136.86,
+              "h"
+            ]
+          ],
+          "width": 107.57,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0027"
+        },
+        {
+          "type": "text",
+          "value": "Liceria & Co.",
+          "x": 38.02,
+          "y": 211.34,
+          "baseline_y": 225.67,
+          "char_origins": [
+            [
+              38.02,
+              "L"
+            ],
+            [
+              44.33,
+              "i"
+            ],
+            [
+              48.09,
+              "c"
+            ],
+            [
+              56.79,
+              "e"
+            ],
+            [
+              65.66,
+              "r"
+            ],
+            [
+              71.16,
+              "i"
+            ],
+            [
+              74.92,
+              "a"
+            ],
+            [
+              84.56,
+              " "
+            ],
+            [
+              88.61,
+              "&"
+            ],
+            [
+              99.1,
+              " "
+            ],
+            [
+              103.16,
+              "C"
+            ],
+            [
+              114.1,
+              "o"
+            ],
+            [
+              123.24,
+              "."
+            ]
+          ],
+          "width": 88.08,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0028"
+        },
+        {
+          "type": "text",
+          "value": "123 Anywhere St., Any City",
+          "x": 38.02,
+          "y": 230.36,
+          "baseline_y": 244.69,
+          "char_origins": [
+            [
+              38.02,
+              "1"
+            ],
+            [
+              42.8,
+              "2"
+            ],
+            [
+              51.06,
+              "3"
+            ],
+            [
+              59.5,
+              " "
+            ],
+            [
+              63.56,
+              "A"
+            ],
+            [
+              73.16,
+              "n"
+            ],
+            [
+              82.3,
+              "y"
+            ],
+            [
+              90.4,
+              "w"
+            ],
+            [
+              102.0,
+              "h"
+            ],
+            [
+              111.14,
+              "e"
+            ],
+            [
+              120.01,
+              "r"
+            ],
+            [
+              125.51,
+              "e"
+            ],
+            [
+              134.38,
+              " "
+            ],
+            [
+              138.43,
+              "S"
+            ],
+            [
+              146.85,
+              "t"
+            ],
+            [
+              152.23,
+              "."
+            ],
+            [
+              155.5,
+              ","
+            ],
+            [
+              158.61,
+              " "
+            ],
+            [
+              162.67,
+              "A"
+            ],
+            [
+              172.27,
+              "n"
+            ],
+            [
+              181.42,
+              "y"
+            ],
+            [
+              189.51,
+              " "
+            ],
+            [
+              193.56,
+              "C"
+            ],
+            [
+              204.5,
+              "i"
+            ],
+            [
+              208.27,
+              "t"
+            ],
+            [
+              213.65,
+              "y"
+            ]
+          ],
+          "width": 183.31,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0029"
+        },
+        {
+          "type": "text",
+          "value": "DATE:",
+          "x": 433.75,
+          "y": 192.23,
+          "baseline_y": 206.56,
+          "char_origins": [
+            [
+              433.75,
+              "D"
+            ],
+            [
+              443.81,
+              "A"
+            ],
+            [
+              453.41,
+              "T"
+            ],
+            [
+              461.2,
+              "E"
+            ],
+            [
+              468.61,
+              ":"
+            ]
+          ],
+          "width": 37.77,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0030"
+        },
+        {
+          "type": "text",
+          "value": "10.10.2030",
+          "x": 492.35,
+          "y": 192.23,
+          "baseline_y": 206.56,
+          "char_origins": [
+            [
+              492.35,
+              "1"
+            ],
+            [
+              497.13,
+              "0"
+            ],
+            [
+              506.11,
+              "."
+            ],
+            [
+              509.38,
+              "1"
+            ],
+            [
+              514.16,
+              "0"
+            ],
+            [
+              523.14,
+              "."
+            ],
+            [
+              526.41,
+              "2"
+            ],
+            [
+              534.67,
+              "0"
+            ],
+            [
+              543.65,
+              "3"
+            ],
+            [
+              552.1,
+              "0"
+            ]
+          ],
+          "width": 68.31,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0031"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE NO:",
+          "x": 370.77,
+          "y": 165.11,
+          "baseline_y": 181.49,
+          "char_origins": [
+            [
+              370.77,
+              "I"
+            ],
+            [
+              375.84,
+              "N"
+            ],
+            [
+              388.04,
+              "V"
+            ],
+            [
+              399.9,
+              "O"
+            ],
+            [
+              412.63,
+              "I"
+            ],
+            [
+              417.7,
+              "C"
+            ],
+            [
+              430.05,
+              "E"
+            ],
+            [
+              438.96,
+              " "
+            ],
+            [
+              442.74,
+              "N"
+            ],
+            [
+              454.93,
+              "O"
+            ],
+            [
+              467.66,
+              ":"
+            ]
+          ],
+          "width": 101.32,
+          "height": 21.84,
+          "font_family": "Poppins-Bold",
+          "font_size": 15.6,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0032"
+        },
+        {
+          "type": "text",
+          "value": "#123456",
+          "x": 489.5,
+          "y": 165.11,
+          "baseline_y": 181.49,
+          "char_origins": [
+            [
+              489.5,
+              "#"
+            ],
+            [
+              504.07,
+              "1"
+            ],
+            [
+              510.4,
+              "2"
+            ],
+            [
+              519.78,
+              "3"
+            ],
+            [
+              529.68,
+              "4"
+            ],
+            [
+              540.71,
+              "5"
+            ],
+            [
+              551.32,
+              "6"
+            ]
+          ],
+          "width": 71.76,
+          "height": 21.84,
+          "font_family": "Poppins-Bold",
+          "font_size": 15.6,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0033"
+        },
+        {
+          "type": "text",
+          "value": "DUE DATE:",
+          "x": 402.88,
+          "y": 214.46,
+          "baseline_y": 228.79,
+          "char_origins": [
+            [
+              402.88,
+              "D"
+            ],
+            [
+              412.93,
+              "U"
+            ],
+            [
+              422.55,
+              "E"
+            ],
+            [
+              429.96,
+              " "
+            ],
+            [
+              434.02,
+              "D"
+            ],
+            [
+              444.07,
+              "A"
+            ],
+            [
+              453.68,
+              "T"
+            ],
+            [
+              461.47,
+              "E"
+            ],
+            [
+              468.88,
+              ":"
+            ]
+          ],
+          "width": 68.91,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0034"
+        },
+        {
+          "type": "text",
+          "value": "30.10.2030",
+          "x": 488.69,
+          "y": 214.46,
+          "baseline_y": 228.79,
+          "char_origins": [
+            [
+              488.69,
+              "3"
+            ],
+            [
+              497.13,
+              "0"
+            ],
+            [
+              506.11,
+              "."
+            ],
+            [
+              509.39,
+              "1"
+            ],
+            [
+              514.16,
+              "0"
+            ],
+            [
+              523.14,
+              "."
+            ],
+            [
+              526.42,
+              "2"
+            ],
+            [
+              534.67,
+              "0"
+            ],
+            [
+              543.65,
+              "3"
+            ],
+            [
+              552.1,
+              "0"
+            ]
+          ],
+          "width": 71.98,
+          "height": 19.11,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.65,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0035"
+        },
+        {
+          "type": "text",
+          "value": "Payment Information",
+          "x": 32.43,
+          "y": 647.11,
+          "baseline_y": 662.85,
+          "char_origins": [
+            [
+              32.43,
+              "P"
+            ],
+            [
+              41.48,
+              "a"
+            ],
+            [
+              51.36,
+              "y"
+            ],
+            [
+              60.53,
+              "m"
+            ],
+            [
+              76.09,
+              "e"
+            ],
+            [
+              85.02,
+              "n"
+            ],
+            [
+              94.82,
+              "t"
+            ],
+            [
+              100.6,
+              " "
+            ],
+            [
+              103.48,
+              "I"
+            ],
+            [
+              107.6,
+              "n"
+            ],
+            [
+              117.4,
+              "f"
+            ],
+            [
+              122.49,
+              "o"
+            ],
+            [
+              131.73,
+              "r"
+            ],
+            [
+              137.85,
+              "m"
+            ],
+            [
+              153.41,
+              "a"
+            ],
+            [
+              163.29,
+              "t"
+            ],
+            [
+              169.07,
+              "i"
+            ],
+            [
+              173.19,
+              "o"
+            ],
+            [
+              182.43,
+              "n"
+            ]
+          ],
+          "width": 160.1,
+          "height": 20.99,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.99,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0036"
+        },
+        {
+          "type": "text",
+          "value": "Bank ",
+          "x": 32.43,
+          "y": 682.41,
+          "baseline_y": 696.07,
+          "char_origins": [
+            [
+              32.43,
+              "B"
+            ],
+            [
+              40.74,
+              "a"
+            ],
+            [
+              49.31,
+              "n"
+            ],
+            [
+              57.81,
+              "k"
+            ],
+            [
+              65.59,
+              " "
+            ]
+          ],
+          "width": 35.91,
+          "height": 18.2,
+          "font_family": "Poppins-Bold",
+          "font_size": 13.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0037"
+        },
+        {
+          "type": "text",
+          "value": "Name ",
+          "x": 32.43,
+          "y": 702.95,
+          "baseline_y": 716.61,
+          "char_origins": [
+            [
+              32.43,
+              "N"
+            ],
+            [
+              41.95,
+              "a"
+            ],
+            [
+              50.52,
+              "m"
+            ],
+            [
+              64.03,
+              "e"
+            ],
+            [
+              71.78,
+              " "
+            ]
+          ],
+          "width": 42.1,
+          "height": 18.2,
+          "font_family": "Poppins-Bold",
+          "font_size": 13.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0038"
+        },
+        {
+          "type": "text",
+          "value": "Account ",
+          "x": 32.43,
+          "y": 722.8,
+          "baseline_y": 736.45,
+          "char_origins": [
+            [
+              32.43,
+              "A"
+            ],
+            [
+              41.76,
+              "c"
+            ],
+            [
+              49.36,
+              "c"
+            ],
+            [
+              56.97,
+              "o"
+            ],
+            [
+              64.99,
+              "u"
+            ],
+            [
+              73.49,
+              "n"
+            ],
+            [
+              81.99,
+              "t"
+            ],
+            [
+              87.02,
+              " "
+            ]
+          ],
+          "width": 57.34,
+          "height": 18.2,
+          "font_family": "Poppins-Bold",
+          "font_size": 13.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0039"
+        },
+        {
+          "type": "text",
+          "value": ":    Fauget Bank",
+          "x": 99.39,
+          "y": 682.41,
+          "baseline_y": 696.07,
+          "char_origins": [
+            [
+              99.39,
+              ":"
+            ],
+            [
+              101.91,
+              " "
+            ],
+            [
+              105.12,
+              " "
+            ],
+            [
+              108.33,
+              " "
+            ],
+            [
+              111.54,
+              " "
+            ],
+            [
+              114.75,
+              "F"
+            ],
+            [
+              121.05,
+              "a"
+            ],
+            [
+              129.58,
+              "u"
+            ],
+            [
+              137.64,
+              "g"
+            ],
+            [
+              146.16,
+              "e"
+            ],
+            [
+              153.96,
+              "t"
+            ],
+            [
+              158.44,
+              " "
+            ],
+            [
+              161.65,
+              "B"
+            ],
+            [
+              169.36,
+              "a"
+            ],
+            [
+              177.89,
+              "n"
+            ],
+            [
+              185.95,
+              "k"
+            ]
+          ],
+          "width": 93.26,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0040"
+        },
+        {
+          "type": "text",
+          "value": ":    Claudia Alves",
+          "x": 99.39,
+          "y": 702.95,
+          "baseline_y": 716.61,
+          "char_origins": [
+            [
+              99.39,
+              ":"
+            ],
+            [
+              101.91,
+              " "
+            ],
+            [
+              105.12,
+              " "
+            ],
+            [
+              108.33,
+              " "
+            ],
+            [
+              111.54,
+              " "
+            ],
+            [
+              114.75,
+              "C"
+            ],
+            [
+              124.53,
+              "l"
+            ],
+            [
+              127.47,
+              "a"
+            ],
+            [
+              136.0,
+              "u"
+            ],
+            [
+              144.06,
+              "d"
+            ],
+            [
+              152.59,
+              "i"
+            ],
+            [
+              155.52,
+              "a"
+            ],
+            [
+              164.05,
+              " "
+            ],
+            [
+              167.26,
+              "A"
+            ],
+            [
+              175.77,
+              "l"
+            ],
+            [
+              178.71,
+              "v"
+            ],
+            [
+              185.74,
+              "e"
+            ],
+            [
+              193.54,
+              "s"
+            ]
+          ],
+          "width": 100.94,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0041"
+        },
+        {
+          "type": "text",
+          "value": ":    0123 4567 8901",
+          "x": 99.39,
+          "y": 722.8,
+          "baseline_y": 736.45,
+          "char_origins": [
+            [
+              99.39,
+              ":"
+            ],
+            [
+              101.91,
+              " "
+            ],
+            [
+              105.12,
+              " "
+            ],
+            [
+              108.33,
+              " "
+            ],
+            [
+              111.54,
+              " "
+            ],
+            [
+              114.75,
+              "0"
+            ],
+            [
+              122.66,
+              "1"
+            ],
+            [
+              126.56,
+              "2"
+            ],
+            [
+              133.77,
+              "3"
+            ],
+            [
+              141.17,
+              " "
+            ],
+            [
+              144.38,
+              "4"
+            ],
+            [
+              152.3,
+              "5"
+            ],
+            [
+              160.21,
+              "6"
+            ],
+            [
+              168.2,
+              "7"
+            ],
+            [
+              175.04,
+              " "
+            ],
+            [
+              178.25,
+              "8"
+            ],
+            [
+              186.19,
+              "9"
+            ],
+            [
+              194.12,
+              "0"
+            ],
+            [
+              202.03,
+              "1"
+            ]
+          ],
+          "width": 106.8,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0042"
+        },
+        {
+          "type": "text",
+          "value": "Terms & conditions",
+          "x": 326.52,
+          "y": 647.11,
+          "baseline_y": 662.85,
+          "char_origins": [
+            [
+              326.52,
+              "T"
+            ],
+            [
+              335.07,
+              "e"
+            ],
+            [
+              344.0,
+              "r"
+            ],
+            [
+              350.12,
+              "m"
+            ],
+            [
+              365.68,
+              "s"
+            ],
+            [
+              373.74,
+              " "
+            ],
+            [
+              376.62,
+              "&"
+            ],
+            [
+              388.27,
+              " "
+            ],
+            [
+              391.15,
+              "c"
+            ],
+            [
+              399.92,
+              "o"
+            ],
+            [
+              409.16,
+              "n"
+            ],
+            [
+              418.96,
+              "d"
+            ],
+            [
+              428.83,
+              "i"
+            ],
+            [
+              432.95,
+              "t"
+            ],
+            [
+              438.73,
+              "i"
+            ],
+            [
+              442.85,
+              "o"
+            ],
+            [
+              452.1,
+              "n"
+            ],
+            [
+              461.89,
+              "s"
+            ]
+          ],
+          "width": 143.74,
+          "height": 20.99,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.99,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0043"
+        },
+        {
+          "type": "text",
+          "value": "Please send payment within 30 days",
+          "x": 326.52,
+          "y": 679.05,
+          "baseline_y": 692.7,
+          "char_origins": [
+            [
+              326.52,
+              "P"
+            ],
+            [
+              333.79,
+              "l"
+            ],
+            [
+              336.73,
+              "e"
+            ],
+            [
+              344.53,
+              "a"
+            ],
+            [
+              353.05,
+              "s"
+            ],
+            [
+              359.58,
+              "e"
+            ],
+            [
+              367.38,
+              " "
+            ],
+            [
+              370.84,
+              "s"
+            ],
+            [
+              377.36,
+              "e"
+            ],
+            [
+              385.17,
+              "n"
+            ],
+            [
+              393.23,
+              "d"
+            ],
+            [
+              401.75,
+              " "
+            ],
+            [
+              405.21,
+              "p"
+            ],
+            [
+              413.74,
+              "a"
+            ],
+            [
+              422.27,
+              "y"
+            ],
+            [
+              429.33,
+              "m"
+            ],
+            [
+              442.46,
+              "e"
+            ],
+            [
+              450.26,
+              "n"
+            ],
+            [
+              458.32,
+              "t"
+            ],
+            [
+              462.79,
+              " "
+            ],
+            [
+              466.25,
+              "w"
+            ],
+            [
+              476.65,
+              "i"
+            ],
+            [
+              479.59,
+              "t"
+            ],
+            [
+              484.06,
+              "h"
+            ],
+            [
+              492.12,
+              "i"
+            ],
+            [
+              495.06,
+              "n"
+            ],
+            [
+              503.12,
+              " "
+            ],
+            [
+              506.58,
+              "3"
+            ],
+            [
+              513.97,
+              "0"
+            ],
+            [
+              521.88,
+              " "
+            ],
+            [
+              525.34,
+              "d"
+            ],
+            [
+              533.86,
+              "a"
+            ],
+            [
+              542.39,
+              "y"
+            ],
+            [
+              549.45,
+              "s"
+            ]
+          ],
+          "width": 229.72,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0044"
+        },
+        {
+          "type": "text",
+          "value": "of receiving this invoice. There will be",
+          "x": 326.52,
+          "y": 697.06,
+          "baseline_y": 710.71,
+          "char_origins": [
+            [
+              326.52,
+              "o"
+            ],
+            [
+              334.58,
+              "f"
+            ],
+            [
+              338.6,
+              " "
+            ],
+            [
+              342.03,
+              "r"
+            ],
+            [
+              346.61,
+              "e"
+            ],
+            [
+              354.42,
+              "c"
+            ],
+            [
+              362.05,
+              "e"
+            ],
+            [
+              369.85,
+              "i"
+            ],
+            [
+              372.79,
+              "v"
+            ],
+            [
+              379.82,
+              "i"
+            ],
+            [
+              382.76,
+              "n"
+            ],
+            [
+              390.82,
+              "g"
+            ],
+            [
+              399.35,
+              " "
+            ],
+            [
+              402.77,
+              "t"
+            ],
+            [
+              407.25,
+              "h"
+            ],
+            [
+              415.31,
+              "i"
+            ],
+            [
+              418.24,
+              "s"
+            ],
+            [
+              424.77,
+              " "
+            ],
+            [
+              428.2,
+              "i"
+            ],
+            [
+              431.14,
+              "n"
+            ],
+            [
+              439.2,
+              "v"
+            ],
+            [
+              446.23,
+              "o"
+            ],
+            [
+              454.29,
+              "i"
+            ],
+            [
+              457.23,
+              "c"
+            ],
+            [
+              464.86,
+              "e"
+            ],
+            [
+              472.66,
+              "."
+            ],
+            [
+              475.13,
+              " "
+            ],
+            [
+              478.56,
+              "T"
+            ],
+            [
+              485.33,
+              "h"
+            ],
+            [
+              493.39,
+              "e"
+            ],
+            [
+              501.19,
+              "r"
+            ],
+            [
+              505.78,
+              "e"
+            ],
+            [
+              513.58,
+              " "
+            ],
+            [
+              517.01,
+              "w"
+            ],
+            [
+              527.41,
+              "i"
+            ],
+            [
+              530.35,
+              "l"
+            ],
+            [
+              533.29,
+              "l"
+            ],
+            [
+              536.23,
+              " "
+            ],
+            [
+              539.65,
+              "b"
+            ],
+            [
+              548.18,
+              "e"
+            ]
+          ],
+          "width": 229.73,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0045"
+        },
+        {
+          "type": "text",
+          "value": "a 10% interest charge per month on",
+          "x": 326.52,
+          "y": 715.07,
+          "baseline_y": 728.72,
+          "char_origins": [
+            [
+              326.52,
+              "a"
+            ],
+            [
+              335.05,
+              " "
+            ],
+            [
+              339.87,
+              "1"
+            ],
+            [
+              343.77,
+              "0"
+            ],
+            [
+              351.67,
+              "%"
+            ],
+            [
+              361.28,
+              " "
+            ],
+            [
+              366.09,
+              "i"
+            ],
+            [
+              369.03,
+              "n"
+            ],
+            [
+              377.09,
+              "t"
+            ],
+            [
+              381.57,
+              "e"
+            ],
+            [
+              389.37,
+              "r"
+            ],
+            [
+              393.96,
+              "e"
+            ],
+            [
+              401.76,
+              "s"
+            ],
+            [
+              408.28,
+              "t"
+            ],
+            [
+              412.75,
+              " "
+            ],
+            [
+              417.57,
+              "c"
+            ],
+            [
+              425.2,
+              "h"
+            ],
+            [
+              433.26,
+              "a"
+            ],
+            [
+              441.79,
+              "r"
+            ],
+            [
+              446.38,
+              "g"
+            ],
+            [
+              454.91,
+              "e"
+            ],
+            [
+              462.71,
+              " "
+            ],
+            [
+              467.53,
+              "p"
+            ],
+            [
+              476.06,
+              "e"
+            ],
+            [
+              483.86,
+              "r"
+            ],
+            [
+              488.45,
+              " "
+            ],
+            [
+              493.26,
+              "m"
+            ],
+            [
+              506.39,
+              "o"
+            ],
+            [
+              514.45,
+              "n"
+            ],
+            [
+              522.52,
+              "t"
+            ],
+            [
+              526.99,
+              "h"
+            ],
+            [
+              535.05,
+              " "
+            ],
+            [
+              539.86,
+              "o"
+            ],
+            [
+              547.93,
+              "n"
+            ]
+          ],
+          "width": 229.73,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0046"
+        },
+        {
+          "type": "text",
+          "value": "late invoices.",
+          "x": 326.52,
+          "y": 733.07,
+          "baseline_y": 746.72,
+          "char_origins": [
+            [
+              326.52,
+              "l"
+            ],
+            [
+              329.46,
+              "a"
+            ],
+            [
+              337.99,
+              "t"
+            ],
+            [
+              342.46,
+              "e"
+            ],
+            [
+              350.26,
+              " "
+            ],
+            [
+              353.47,
+              "i"
+            ],
+            [
+              356.41,
+              "n"
+            ],
+            [
+              364.47,
+              "v"
+            ],
+            [
+              371.5,
+              "o"
+            ],
+            [
+              379.56,
+              "i"
+            ],
+            [
+              382.5,
+              "c"
+            ],
+            [
+              390.13,
+              "e"
+            ],
+            [
+              397.93,
+              "s"
+            ],
+            [
+              404.46,
+              "."
+            ]
+          ],
+          "width": 80.67,
+          "height": 18.2,
+          "font_family": "Poppins-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0047"
+        },
+        {
+          "type": "text",
+          "value": "Item Name",
+          "x": 92.64,
+          "y": 387.6,
+          "baseline_y": 400.2,
+          "char_origins": [
+            [
+              92.64,
+              "I"
+            ],
+            [
+              95.59,
+              "t"
+            ],
+            [
+              99.96,
+              "e"
+            ],
+            [
+              107.4,
+              "m"
+            ],
+            [
+              119.77,
+              " "
+            ],
+            [
+              122.97,
+              "N"
+            ],
+            [
+              131.41,
+              "a"
+            ],
+            [
+              139.53,
+              "m"
+            ],
+            [
+              151.89,
+              "e"
+            ]
+          ],
+          "width": 66.7,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0048"
+        },
+        {
+          "type": "text",
+          "value": "02.",
+          "x": 53.64,
+          "y": 387.6,
+          "baseline_y": 400.2,
+          "char_origins": [
+            [
+              53.64,
+              "0"
+            ],
+            [
+              61.18,
+              "2"
+            ],
+            [
+              68.08,
+              "."
+            ]
+          ],
+          "width": 16.96,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0049"
+        },
+        {
+          "type": "text",
+          "value": "1",
+          "x": 386.03,
+          "y": 387.6,
+          "baseline_y": 400.2,
+          "char_origins": null,
+          "width": 3.84,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0050"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 264.31,
+          "y": 387.6,
+          "baseline_y": 400.2,
+          "char_origins": [
+            [
+              264.31,
+              "$"
+            ],
+            [
+              271.77,
+              "2"
+            ],
+            [
+              278.68,
+              "0"
+            ],
+            [
+              286.21,
+              "0"
+            ],
+            [
+              293.75,
+              "."
+            ],
+            [
+              296.27,
+              "0"
+            ],
+            [
+              303.81,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0051"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 474.69,
+          "y": 387.6,
+          "baseline_y": 400.2,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.16,
+              "2"
+            ],
+            [
+              489.06,
+              "0"
+            ],
+            [
+              496.6,
+              "0"
+            ],
+            [
+              504.14,
+              "."
+            ],
+            [
+              506.66,
+              "0"
+            ],
+            [
+              514.2,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0052"
+        },
+        {
+          "type": "text",
+          "value": "Item Name",
+          "x": 92.64,
+          "y": 337.41,
+          "baseline_y": 350.01,
+          "char_origins": [
+            [
+              92.64,
+              "I"
+            ],
+            [
+              95.59,
+              "t"
+            ],
+            [
+              99.96,
+              "e"
+            ],
+            [
+              107.4,
+              "m"
+            ],
+            [
+              119.77,
+              " "
+            ],
+            [
+              122.97,
+              "N"
+            ],
+            [
+              131.41,
+              "a"
+            ],
+            [
+              139.53,
+              "m"
+            ],
+            [
+              151.89,
+              "e"
+            ]
+          ],
+          "width": 66.7,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0053"
+        },
+        {
+          "type": "text",
+          "value": "01.",
+          "x": 53.64,
+          "y": 337.41,
+          "baseline_y": 350.01,
+          "char_origins": [
+            [
+              53.64,
+              "0"
+            ],
+            [
+              61.18,
+              "1"
+            ],
+            [
+              65.02,
+              "."
+            ]
+          ],
+          "width": 13.9,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0054"
+        },
+        {
+          "type": "text",
+          "value": "1",
+          "x": 386.03,
+          "y": 337.41,
+          "baseline_y": 350.01,
+          "char_origins": null,
+          "width": 3.84,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0055"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 264.31,
+          "y": 337.41,
+          "baseline_y": 350.01,
+          "char_origins": [
+            [
+              264.31,
+              "$"
+            ],
+            [
+              271.77,
+              "2"
+            ],
+            [
+              278.68,
+              "0"
+            ],
+            [
+              286.21,
+              "0"
+            ],
+            [
+              293.75,
+              "."
+            ],
+            [
+              296.27,
+              "0"
+            ],
+            [
+              303.81,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0056"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 474.69,
+          "y": 337.41,
+          "baseline_y": 350.01,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.16,
+              "2"
+            ],
+            [
+              489.06,
+              "0"
+            ],
+            [
+              496.6,
+              "0"
+            ],
+            [
+              504.14,
+              "."
+            ],
+            [
+              506.66,
+              "0"
+            ],
+            [
+              514.2,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0057"
+        },
+        {
+          "type": "text",
+          "value": "Item Name",
+          "x": 92.64,
+          "y": 437.79,
+          "baseline_y": 450.4,
+          "char_origins": [
+            [
+              92.64,
+              "I"
+            ],
+            [
+              95.59,
+              "t"
+            ],
+            [
+              99.96,
+              "e"
+            ],
+            [
+              107.4,
+              "m"
+            ],
+            [
+              119.77,
+              " "
+            ],
+            [
+              122.97,
+              "N"
+            ],
+            [
+              131.41,
+              "a"
+            ],
+            [
+              139.53,
+              "m"
+            ],
+            [
+              151.89,
+              "e"
+            ]
+          ],
+          "width": 66.7,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0058"
+        },
+        {
+          "type": "text",
+          "value": "03.",
+          "x": 53.64,
+          "y": 437.79,
+          "baseline_y": 450.4,
+          "char_origins": [
+            [
+              53.64,
+              "0"
+            ],
+            [
+              61.18,
+              "3"
+            ],
+            [
+              68.25,
+              "."
+            ]
+          ],
+          "width": 17.13,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0059"
+        },
+        {
+          "type": "text",
+          "value": "1",
+          "x": 386.03,
+          "y": 437.79,
+          "baseline_y": 450.4,
+          "char_origins": null,
+          "width": 3.84,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0060"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 264.31,
+          "y": 437.79,
+          "baseline_y": 450.4,
+          "char_origins": [
+            [
+              264.31,
+              "$"
+            ],
+            [
+              271.77,
+              "2"
+            ],
+            [
+              278.68,
+              "0"
+            ],
+            [
+              286.21,
+              "0"
+            ],
+            [
+              293.75,
+              "."
+            ],
+            [
+              296.27,
+              "0"
+            ],
+            [
+              303.81,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0061"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 474.69,
+          "y": 437.79,
+          "baseline_y": 450.4,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.16,
+              "2"
+            ],
+            [
+              489.06,
+              "0"
+            ],
+            [
+              496.6,
+              "0"
+            ],
+            [
+              504.14,
+              "."
+            ],
+            [
+              506.66,
+              "0"
+            ],
+            [
+              514.2,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0062"
+        },
+        {
+          "type": "text",
+          "value": "Item Name",
+          "x": 92.64,
+          "y": 487.98,
+          "baseline_y": 500.59,
+          "char_origins": [
+            [
+              92.64,
+              "I"
+            ],
+            [
+              95.59,
+              "t"
+            ],
+            [
+              99.96,
+              "e"
+            ],
+            [
+              107.4,
+              "m"
+            ],
+            [
+              119.77,
+              " "
+            ],
+            [
+              122.97,
+              "N"
+            ],
+            [
+              131.41,
+              "a"
+            ],
+            [
+              139.53,
+              "m"
+            ],
+            [
+              151.89,
+              "e"
+            ]
+          ],
+          "width": 66.7,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0063"
+        },
+        {
+          "type": "text",
+          "value": "04.",
+          "x": 53.64,
+          "y": 487.98,
+          "baseline_y": 500.59,
+          "char_origins": [
+            [
+              53.64,
+              "0"
+            ],
+            [
+              61.18,
+              "4"
+            ],
+            [
+              68.73,
+              "."
+            ]
+          ],
+          "width": 17.61,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0064"
+        },
+        {
+          "type": "text",
+          "value": "1",
+          "x": 386.03,
+          "y": 487.98,
+          "baseline_y": 500.59,
+          "char_origins": null,
+          "width": 3.84,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0065"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 264.31,
+          "y": 487.98,
+          "baseline_y": 500.59,
+          "char_origins": [
+            [
+              264.31,
+              "$"
+            ],
+            [
+              271.77,
+              "2"
+            ],
+            [
+              278.68,
+              "0"
+            ],
+            [
+              286.21,
+              "0"
+            ],
+            [
+              293.75,
+              "."
+            ],
+            [
+              296.27,
+              "0"
+            ],
+            [
+              303.81,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0066"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 474.69,
+          "y": 487.98,
+          "baseline_y": 500.59,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.16,
+              "2"
+            ],
+            [
+              489.06,
+              "0"
+            ],
+            [
+              496.6,
+              "0"
+            ],
+            [
+              504.14,
+              "."
+            ],
+            [
+              506.66,
+              "0"
+            ],
+            [
+              514.2,
+              "0"
+            ]
+          ],
+          "width": 47.05,
+          "height": 16.81,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0067"
+        },
+        {
+          "type": "text",
+          "value": "ITEM DESCRIPTION",
+          "x": 92.64,
+          "y": 279.5,
+          "baseline_y": 294.2,
+          "char_origins": [
+            [
+              92.64,
+              "I"
+            ],
+            [
+              96.76,
+              "T"
+            ],
+            [
+              105.04,
+              "E"
+            ],
+            [
+              112.61,
+              "M"
+            ],
+            [
+              125.46,
+              " "
+            ],
+            [
+              128.43,
+              "D"
+            ],
+            [
+              138.6,
+              "E"
+            ],
+            [
+              146.18,
+              "S"
+            ],
+            [
+              154.78,
+              "C"
+            ],
+            [
+              165.45,
+              "R"
+            ],
+            [
+              174.58,
+              "I"
+            ],
+            [
+              178.71,
+              "P"
+            ],
+            [
+              187.44,
+              "T"
+            ],
+            [
+              195.71,
+              "I"
+            ],
+            [
+              199.84,
+              "O"
+            ],
+            [
+              210.84,
+              "N"
+            ]
+          ],
+          "width": 128.74,
+          "height": 19.6,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0068"
+        },
+        {
+          "type": "text",
+          "value": "NO.",
+          "x": 49.82,
+          "y": 279.5,
+          "baseline_y": 294.2,
+          "char_origins": [
+            [
+              49.82,
+              "N"
+            ],
+            [
+              60.34,
+              "O"
+            ],
+            [
+              71.35,
+              "."
+            ]
+          ],
+          "width": 25.48,
+          "height": 19.6,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0069"
+        },
+        {
+          "type": "text",
+          "value": "PRICE",
+          "x": 267.46,
+          "y": 279.5,
+          "baseline_y": 294.2,
+          "char_origins": [
+            [
+              267.46,
+              "P"
+            ],
+            [
+              276.2,
+              "R"
+            ],
+            [
+              285.32,
+              "I"
+            ],
+            [
+              289.45,
+              "C"
+            ],
+            [
+              300.12,
+              "E"
+            ]
+          ],
+          "width": 40.23,
+          "height": 19.6,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0070"
+        },
+        {
+          "type": "text",
+          "value": "QTY / HR",
+          "x": 363.16,
+          "y": 279.5,
+          "baseline_y": 294.2,
+          "char_origins": [
+            [
+              363.16,
+              "Q"
+            ],
+            [
+              374.19,
+              "T"
+            ],
+            [
+              382.46,
+              "Y"
+            ],
+            [
+              391.85,
+              " "
+            ],
+            [
+              394.82,
+              "/"
+            ],
+            [
+              401.16,
+              " "
+            ],
+            [
+              404.13,
+              "H"
+            ],
+            [
+              414.36,
+              "R"
+            ]
+          ],
+          "width": 60.33,
+          "height": 19.6,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0071"
+        },
+        {
+          "type": "text",
+          "value": "SUBTOTAL",
+          "x": 474.69,
+          "y": 279.5,
+          "baseline_y": 294.2,
+          "char_origins": [
+            [
+              474.69,
+              "S"
+            ],
+            [
+              483.3,
+              "U"
+            ],
+            [
+              493.17,
+              "B"
+            ],
+            [
+              502.39,
+              "T"
+            ],
+            [
+              510.67,
+              "O"
+            ],
+            [
+              521.67,
+              "T"
+            ],
+            [
+              529.94,
+              "A"
+            ],
+            [
+              540.26,
+              "L"
+            ]
+          ],
+          "width": 72.24,
+          "height": 19.6,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.0,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0072"
+        },
+        {
+          "type": "text",
+          "value": "$2000.00",
+          "x": 474.69,
+          "y": 529.83,
+          "baseline_y": 542.46,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.17,
+              "2"
+            ],
+            [
+              489.09,
+              "0"
+            ],
+            [
+              496.64,
+              "0"
+            ],
+            [
+              504.2,
+              "0"
+            ],
+            [
+              511.75,
+              "."
+            ],
+            [
+              514.28,
+              "0"
+            ],
+            [
+              521.83,
+              "0"
+            ]
+          ],
+          "width": 54.7,
+          "height": 16.85,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.03,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0073"
+        },
+        {
+          "type": "text",
+          "value": "$200.00",
+          "x": 474.69,
+          "y": 553.84,
+          "baseline_y": 566.47,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              482.17,
+              "2"
+            ],
+            [
+              489.09,
+              "0"
+            ],
+            [
+              496.64,
+              "0"
+            ],
+            [
+              504.2,
+              "."
+            ],
+            [
+              506.72,
+              "0"
+            ],
+            [
+              514.28,
+              "0"
+            ]
+          ],
+          "width": 47.14,
+          "height": 16.85,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.03,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0074"
+        },
+        {
+          "type": "text",
+          "value": "Subtotal",
+          "x": 382.27,
+          "y": 529.83,
+          "baseline_y": 542.46,
+          "char_origins": [
+            [
+              382.27,
+              "S"
+            ],
+            [
+              389.33,
+              "u"
+            ],
+            [
+              397.02,
+              "b"
+            ],
+            [
+              405.15,
+              "t"
+            ],
+            [
+              409.53,
+              "o"
+            ],
+            [
+              417.23,
+              "t"
+            ],
+            [
+              421.61,
+              "a"
+            ],
+            [
+              429.74,
+              "l"
+            ]
+          ],
+          "width": 50.43,
+          "height": 16.85,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.03,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0075"
+        },
+        {
+          "type": "text",
+          "value": "Tax (10%)",
+          "x": 377.63,
+          "y": 553.84,
+          "baseline_y": 566.47,
+          "char_origins": [
+            [
+              377.63,
+              "T"
+            ],
+            [
+              384.14,
+              "a"
+            ],
+            [
+              392.27,
+              "x"
+            ],
+            [
+              398.03,
+              " "
+            ],
+            [
+              401.25,
+              "("
+            ],
+            [
+              406.71,
+              "1"
+            ],
+            [
+              410.56,
+              "0"
+            ],
+            [
+              418.11,
+              "%"
+            ],
+            [
+              427.24,
+              ")"
+            ]
+          ],
+          "width": 55.07,
+          "height": 16.85,
+          "font_family": "Poppins-Regular",
+          "font_size": 12.03,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0076"
+        },
+        {
+          "type": "text",
+          "value": "GRAND TOTAL",
+          "x": 334.9,
+          "y": 594.58,
+          "baseline_y": 609.32,
+          "char_origins": [
+            [
+              334.9,
+              "G"
+            ],
+            [
+              345.58,
+              "R"
+            ],
+            [
+              354.72,
+              "A"
+            ],
+            [
+              365.06,
+              "N"
+            ],
+            [
+              375.6,
+              "D"
+            ],
+            [
+              385.79,
+              " "
+            ],
+            [
+              388.77,
+              "T"
+            ],
+            [
+              397.05,
+              "O"
+            ],
+            [
+              408.07,
+              "T"
+            ],
+            [
+              416.36,
+              "A"
+            ],
+            [
+              426.69,
+              "L"
+            ]
+          ],
+          "width": 98.49,
+          "height": 19.64,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.03,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0077"
+        },
+        {
+          "type": "text",
+          "value": "$2200.00",
+          "x": 474.69,
+          "y": 594.58,
+          "baseline_y": 609.32,
+          "char_origins": [
+            [
+              474.69,
+              "$"
+            ],
+            [
+              483.92,
+              "2"
+            ],
+            [
+              491.92,
+              "2"
+            ],
+            [
+              499.93,
+              "0"
+            ],
+            [
+              509.07,
+              "0"
+            ],
+            [
+              518.21,
+              "."
+            ],
+            [
+              522.17,
+              "0"
+            ],
+            [
+              531.31,
+              "0"
+            ]
+          ],
+          "width": 65.76,
+          "height": 19.64,
+          "font_family": "Poppins-Bold",
+          "font_size": 14.03,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#407FBF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0078"
+        },
+        {
+          "type": "text",
+          "value": "A Corporate Company",
+          "x": 82.35,
+          "y": 101.47,
+          "baseline_y": 113.79,
+          "char_origins": [
+            [
+              82.35,
+              "A"
+            ],
+            [
+              90.25,
+              " "
+            ],
+            [
+              93.38,
+              "C"
+            ],
+            [
+              102.43,
+              "o"
+            ],
+            [
+              109.94,
+              "r"
+            ],
+            [
+              114.31,
+              "p"
+            ],
+            [
+              122.23,
+              "o"
+            ],
+            [
+              129.74,
+              "r"
+            ],
+            [
+              134.11,
+              "a"
+            ],
+            [
+              142.04,
+              "t"
+            ],
+            [
+              146.3,
+              "e"
+            ],
+            [
+              153.57,
+              " "
+            ],
+            [
+              156.7,
+              "C"
+            ],
+            [
+              165.75,
+              "o"
+            ],
+            [
+              173.25,
+              "m"
+            ],
+            [
+              185.33,
+              "p"
+            ],
+            [
+              193.25,
+              "a"
+            ],
+            [
+              201.18,
+              "n"
+            ],
+            [
+              208.68,
+              "y"
+            ]
+          ],
+          "width": 132.94,
+          "height": 16.43,
+          "font_family": "Poppins-Regular",
+          "font_size": 11.73,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0079"
+        },
+        {
+          "type": "text",
+          "value": "Salford  & co.",
+          "x": 82.35,
+          "y": 71.86,
+          "baseline_y": 99.42,
+          "char_origins": [
+            [
+              82.35,
+              "S"
+            ],
+            [
+              96.95,
+              "a"
+            ],
+            [
+              113.22,
+              "l"
+            ],
+            [
+              119.42,
+              "f"
+            ],
+            [
+              127.32,
+              "o"
+            ],
+            [
+              142.49,
+              "r"
+            ],
+            [
+              152.18,
+              "d"
+            ],
+            [
+              168.46,
+              " "
+            ],
+            [
+              172.48,
+              " "
+            ],
+            [
+              176.5,
+              "&"
+            ],
+            [
+              195.9,
+              " "
+            ],
+            [
+              199.91,
+              "c"
+            ],
+            [
+              214.25,
+              "o"
+            ],
+            [
+              229.42,
+              "."
+            ]
+          ],
+          "width": 154.47,
+          "height": 36.75,
+          "font_family": "Poppins-Bold",
+          "font_size": 26.25,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Poppins-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0080"
+        },
+        {
+          "type": "table",
+          "x": -22.88,
+          "y": -204.78,
+          "width": 303.62,
+          "height": 333.74,
+          "columns": 2,
+          "rows": 1,
+          "headers": [
+            "Salford & co.\nA Corporate Company",
+            ""
+          ],
+          "cells": [
+            [
+              "",
+              "Salford & co.\nA Corporate Company"
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0081"
+        },
+        {
+          "type": "table",
+          "x": 326.01,
+          "y": -169.51,
+          "width": 521.81,
+          "height": 181.78,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0082"
+        },
+        {
+          "type": "table",
+          "x": 34.76,
+          "y": 297.45,
+          "width": 526.29,
+          "height": 6.46,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0083"
+        },
+        {
+          "type": "table",
+          "x": 34.76,
+          "y": 571.1,
+          "width": 526.29,
+          "height": 6.46,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0084"
+        },
+        {
+          "type": "table",
+          "x": 0.0,
+          "y": 810.97,
+          "width": 595.61,
+          "height": 23.61,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0085"
+        }
+      ]
+    }
+  ]
+}

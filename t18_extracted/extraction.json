@@ -1,0 +1,2993 @@
+{
+  "source_file": "t18.pdf",
+  "page_count": 1,
+  "fonts": {
+    "AAAAAA+Sanchez-Regular": "t18_extracted/fonts/AAAAAA_Sanchez-Regular.ttf",
+    "BAAAAA+CanvaSans-Bold": "t18_extracted/fonts/BAAAAA_CanvaSans-Bold.ttf",
+    "CAAAAA+CanvaSans-Regular": "t18_extracted/fonts/CAAAAA_CanvaSans-Regular.ttf"
+  },
+  "subset_fonts": {
+    "AAAAAA+Sanchez-Regular": {
+      "base_name": "Sanchez-Regular",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    },
+    "BAAAAA+CanvaSans-Bold": {
+      "base_name": "CanvaSans-Bold",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    },
+    "CAAAAA+CanvaSans-Regular": {
+      "base_name": "CanvaSans-Regular",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "width_pt": 595.5,
+      "height_pt": 842.25,
+      "is_scanned": false,
+      "elements": [
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.5,
+          "height": 842.25,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.75,
+          "origin": "pymupdf",
+          "id": "p1_elem_0001"
+        },
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.72,
+          "height": 842.57,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.86,
+          "origin": "pymupdf",
+          "id": "p1_elem_0002"
+        },
+        {
+          "type": "rectangle",
+          "x": -10.39,
+          "y": -21.68,
+          "width": 35.74,
+          "height": 887.8,
+          "fill_color": "#213A5D",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 17.87,
+          "origin": "pymupdf",
+          "id": "p1_elem_0003"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 333.08,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#48628D",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0004"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 432.61,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0005"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 366.26,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0006"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 399.43,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#EEF0F2",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0007"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 465.78,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#EEF0F2",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0008"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.04,
+          "y": 498.96,
+          "width": 509.54,
+          "height": 33.17,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 16.59,
+          "origin": "pymupdf",
+          "id": "p1_elem_0009"
+        },
+        {
+          "type": "rectangle",
+          "x": 52.92,
+          "y": 733.6,
+          "width": 505.74,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#48628D",
+          "stroke_width": 3.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0010"
+        },
+        {
+          "type": "rectangle",
+          "x": 52.92,
+          "y": 530.25,
+          "width": 505.74,
+          "height": 0.0,
+          "fill_color": null,
+          "stroke_color": "#EEF0F2",
+          "stroke_width": 3.75,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0011"
+        },
+        {
+          "type": "rectangle",
+          "x": -10.38,
+          "y": -21.67,
+          "width": 35.73,
+          "height": 887.42,
+          "fill_color": null,
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0012"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 332.96,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#48618C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0013"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 366.12,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0014"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 399.28,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#EDF0F1",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0015"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 432.44,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0016"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 465.61,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#EDF0F1",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0017"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 498.77,
+          "width": 509.3,
+          "height": 33.16,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0018"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 528.18,
+          "width": 509.3,
+          "height": 3.75,
+          "fill_color": "#EDF0F1",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0019"
+        },
+        {
+          "type": "rectangle",
+          "x": 51.02,
+          "y": 731.45,
+          "width": 509.3,
+          "height": 3.75,
+          "fill_color": "#48618C",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0020"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE",
+          "x": 38.41,
+          "y": 83.25,
+          "baseline_y": 139.49,
+          "char_origins": [
+            [
+              38.41,
+              "I"
+            ],
+            [
+              58.69,
+              "N"
+            ],
+            [
+              104.62,
+              "V"
+            ],
+            [
+              152.12,
+              "O"
+            ],
+            [
+              196.54,
+              "I"
+            ],
+            [
+              216.81,
+              "C"
+            ],
+            [
+              258.94,
+              "E"
+            ]
+          ],
+          "width": 257.1,
+          "height": 71.59,
+          "font_family": "Sanchez-Regular",
+          "font_size": 56.02,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Sanchez-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0021"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE TO",
+          "x": 51.75,
+          "y": 213.65,
+          "baseline_y": 229.39,
+          "char_origins": [
+            [
+              51.75,
+              "I"
+            ],
+            [
+              56.57,
+              "N"
+            ],
+            [
+              68.09,
+              "V"
+            ],
+            [
+              78.07,
+              "O"
+            ],
+            [
+              89.52,
+              "I"
+            ],
+            [
+              94.34,
+              "C"
+            ],
+            [
+              104.65,
+              "E"
+            ],
+            [
+              113.69,
+              " "
+            ],
+            [
+              117.16,
+              "T"
+            ],
+            [
+              125.87,
+              "O"
+            ]
+          ],
+          "width": 85.58,
+          "height": 20.06,
+          "font_family": "CanvaSans-Bold",
+          "font_size": 14.73,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0022"
+        },
+        {
+          "type": "text",
+          "value": "SAMIRA HADID",
+          "x": 51.62,
+          "y": 240.99,
+          "baseline_y": 258.94,
+          "char_origins": [
+            [
+              51.62,
+              "S"
+            ],
+            [
+              61.89,
+              "A"
+            ],
+            [
+              73.16,
+              "M"
+            ],
+            [
+              88.33,
+              "I"
+            ],
+            [
+              93.37,
+              "R"
+            ],
+            [
+              104.47,
+              "A"
+            ],
+            [
+              115.73,
+              " "
+            ],
+            [
+              119.85,
+              "H"
+            ],
+            [
+              132.52,
+              "A"
+            ],
+            [
+              143.78,
+              "D"
+            ],
+            [
+              156.52,
+              "I"
+            ],
+            [
+              161.56,
+              "D"
+            ]
+          ],
+          "width": 122.68,
+          "height": 22.87,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 16.79,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0023"
+        },
+        {
+          "type": "text",
+          "value": "123 Anywhere St., Any City, State, Country 12345",
+          "x": 51.33,
+          "y": 266.82,
+          "baseline_y": 279.78,
+          "char_origins": [
+            [
+              51.33,
+              "1"
+            ],
+            [
+              57.79,
+              "2"
+            ],
+            [
+              64.44,
+              "3"
+            ],
+            [
+              71.47,
+              " "
+            ],
+            [
+              74.44,
+              "A"
+            ],
+            [
+              82.58,
+              "n"
+            ],
+            [
+              90.1,
+              "y"
+            ],
+            [
+              96.98,
+              "w"
+            ],
+            [
+              106.5,
+              "h"
+            ],
+            [
+              114.02,
+              "e"
+            ],
+            [
+              120.98,
+              "r"
+            ],
+            [
+              126.03,
+              "e"
+            ],
+            [
+              132.99,
+              " "
+            ],
+            [
+              135.96,
+              "S"
+            ],
+            [
+              143.38,
+              "t"
+            ],
+            [
+              148.35,
+              "."
+            ],
+            [
+              151.54,
+              ","
+            ],
+            [
+              154.76,
+              " "
+            ],
+            [
+              157.73,
+              "A"
+            ],
+            [
+              165.86,
+              "n"
+            ],
+            [
+              173.38,
+              "y"
+            ],
+            [
+              180.27,
+              " "
+            ],
+            [
+              183.24,
+              "C"
+            ],
+            [
+              191.73,
+              "i"
+            ],
+            [
+              194.97,
+              "t"
+            ],
+            [
+              199.94,
+              "y"
+            ],
+            [
+              206.83,
+              ","
+            ],
+            [
+              210.04,
+              " "
+            ],
+            [
+              213.01,
+              "S"
+            ],
+            [
+              220.43,
+              "t"
+            ],
+            [
+              225.4,
+              "a"
+            ],
+            [
+              232.16,
+              "t"
+            ],
+            [
+              237.13,
+              "e"
+            ],
+            [
+              244.09,
+              ","
+            ],
+            [
+              247.31,
+              " "
+            ],
+            [
+              250.28,
+              "C"
+            ],
+            [
+              258.77,
+              "o"
+            ],
+            [
+              266.26,
+              "u"
+            ],
+            [
+              273.68,
+              "n"
+            ],
+            [
+              281.2,
+              "t"
+            ],
+            [
+              286.17,
+              "r"
+            ],
+            [
+              291.22,
+              "y"
+            ],
+            [
+              298.1,
+              " "
+            ],
+            [
+              301.07,
+              "1"
+            ],
+            [
+              307.53,
+              "2"
+            ],
+            [
+              314.18,
+              "3"
+            ],
+            [
+              321.21,
+              "4"
+            ],
+            [
+              328.55,
+              "5"
+            ]
+          ],
+          "width": 284.38,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0024"
+        },
+        {
+          "type": "text",
+          "value": "+123-456-7890 (Mobile)",
+          "x": 51.62,
+          "y": 283.83,
+          "baseline_y": 296.79,
+          "char_origins": [
+            [
+              51.62,
+              "+"
+            ],
+            [
+              57.95,
+              "1"
+            ],
+            [
+              64.4,
+              "2"
+            ],
+            [
+              71.05,
+              "3"
+            ],
+            [
+              78.09,
+              "-"
+            ],
+            [
+              82.68,
+              "4"
+            ],
+            [
+              90.01,
+              "5"
+            ],
+            [
+              97.18,
+              "6"
+            ],
+            [
+              104.97,
+              "-"
+            ],
+            [
+              109.57,
+              "7"
+            ],
+            [
+              115.55,
+              "8"
+            ],
+            [
+              122.87,
+              "9"
+            ],
+            [
+              130.66,
+              "0"
+            ],
+            [
+              139.18,
+              " "
+            ],
+            [
+              142.15,
+              "("
+            ],
+            [
+              146.09,
+              "M"
+            ],
+            [
+              157.05,
+              "o"
+            ],
+            [
+              164.54,
+              "b"
+            ],
+            [
+              172.33,
+              "i"
+            ],
+            [
+              175.57,
+              "l"
+            ],
+            [
+              179.12,
+              "e"
+            ],
+            [
+              186.09,
+              ")"
+            ]
+          ],
+          "width": 138.41,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0025"
+        },
+        {
+          "type": "text",
+          "value": "ITEM",
+          "x": 70.41,
+          "y": 339.23,
+          "baseline_y": 355.3,
+          "char_origins": [
+            [
+              70.41,
+              "I"
+            ],
+            [
+              76.2,
+              "T"
+            ],
+            [
+              87.84,
+              "E"
+            ],
+            [
+              98.29,
+              "M"
+            ]
+          ],
+          "width": 42.58,
+          "height": 20.45,
+          "font_family": "Sanchez-Regular",
+          "font_size": 16.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Sanchez-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0026"
+        },
+        {
+          "type": "text",
+          "value": "QTY",
+          "x": 306.22,
+          "y": 339.23,
+          "baseline_y": 355.3,
+          "char_origins": [
+            [
+              306.22,
+              "Q"
+            ],
+            [
+              318.53,
+              "T"
+            ],
+            [
+              330.16,
+              "Y"
+            ]
+          ],
+          "width": 36.09,
+          "height": 20.45,
+          "font_family": "Sanchez-Regular",
+          "font_size": 16.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Sanchez-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0027"
+        },
+        {
+          "type": "text",
+          "value": "PRIZE",
+          "x": 377.59,
+          "y": 339.23,
+          "baseline_y": 355.3,
+          "char_origins": [
+            [
+              377.59,
+              "P"
+            ],
+            [
+              388.12,
+              "R"
+            ],
+            [
+              399.56,
+              "I"
+            ],
+            [
+              405.35,
+              "Z"
+            ],
+            [
+              415.61,
+              "E"
+            ]
+          ],
+          "width": 48.47,
+          "height": 20.45,
+          "font_family": "Sanchez-Regular",
+          "font_size": 16.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Sanchez-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0028"
+        },
+        {
+          "type": "text",
+          "value": "TOTAL",
+          "x": 473.49,
+          "y": 339.23,
+          "baseline_y": 355.3,
+          "char_origins": [
+            [
+              473.49,
+              "T"
+            ],
+            [
+              485.13,
+              "O"
+            ],
+            [
+              497.81,
+              "T"
+            ],
+            [
+              509.45,
+              "A"
+            ],
+            [
+              522.91,
+              "L"
+            ]
+          ],
+          "width": 60.14,
+          "height": 20.45,
+          "font_family": "Sanchez-Regular",
+          "font_size": 16.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "Sanchez-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0029"
+        },
+        {
+          "type": "text",
+          "value": "02",
+          "x": 316.53,
+          "y": 373.45,
+          "baseline_y": 387.35,
+          "char_origins": [
+            [
+              316.53,
+              "0"
+            ],
+            [
+              325.66,
+              "2"
+            ]
+          ],
+          "width": 16.27,
+          "height": 17.71,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0030"
+        },
+        {
+          "type": "text",
+          "value": "02",
+          "x": 316.53,
+          "y": 406.62,
+          "baseline_y": 420.52,
+          "char_origins": [
+            [
+              316.53,
+              "0"
+            ],
+            [
+              325.66,
+              "2"
+            ]
+          ],
+          "width": 16.27,
+          "height": 17.71,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0031"
+        },
+        {
+          "type": "text",
+          "value": "02",
+          "x": 316.53,
+          "y": 439.8,
+          "baseline_y": 453.69,
+          "char_origins": [
+            [
+              316.53,
+              "0"
+            ],
+            [
+              325.66,
+              "2"
+            ]
+          ],
+          "width": 16.27,
+          "height": 17.71,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0032"
+        },
+        {
+          "type": "text",
+          "value": "01",
+          "x": 316.53,
+          "y": 472.97,
+          "baseline_y": 486.87,
+          "char_origins": [
+            [
+              316.53,
+              "0"
+            ],
+            [
+              325.66,
+              "1"
+            ]
+          ],
+          "width": 16.05,
+          "height": 17.71,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0033"
+        },
+        {
+          "type": "text",
+          "value": "01",
+          "x": 316.53,
+          "y": 506.15,
+          "baseline_y": 520.04,
+          "char_origins": [
+            [
+              316.53,
+              "0"
+            ],
+            [
+              325.66,
+              "1"
+            ]
+          ],
+          "width": 16.05,
+          "height": 17.71,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 13.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0034"
+        },
+        {
+          "type": "text",
+          "value": "Subtotal",
+          "x": 390.92,
+          "y": 557.48,
+          "baseline_y": 570.44,
+          "char_origins": [
+            [
+              390.92,
+              "S"
+            ],
+            [
+              398.34,
+              "u"
+            ],
+            [
+              405.75,
+              "b"
+            ],
+            [
+              413.55,
+              "t"
+            ],
+            [
+              418.52,
+              "o"
+            ],
+            [
+              426.01,
+              "t"
+            ],
+            [
+              430.99,
+              "a"
+            ],
+            [
+              437.74,
+              "l"
+            ]
+          ],
+          "width": 50.38,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0035"
+        },
+        {
+          "type": "text",
+          "value": "Grand Total",
+          "x": 379.5,
+          "y": 600.07,
+          "baseline_y": 613.03,
+          "char_origins": [
+            [
+              379.5,
+              "G"
+            ],
+            [
+              388.5,
+              "r"
+            ],
+            [
+              393.55,
+              "a"
+            ],
+            [
+              400.3,
+              "n"
+            ],
+            [
+              407.82,
+              "d"
+            ],
+            [
+              415.62,
+              " "
+            ],
+            [
+              418.59,
+              "T"
+            ],
+            [
+              425.66,
+              "o"
+            ],
+            [
+              433.15,
+              "t"
+            ],
+            [
+              438.13,
+              "a"
+            ],
+            [
+              444.88,
+              "l"
+            ]
+          ],
+          "width": 68.93,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0036"
+        },
+        {
+          "type": "text",
+          "value": "Email us at accounts hello@reallygreatsite.com",
+          "x": 51.04,
+          "y": 746.94,
+          "baseline_y": 759.9,
+          "char_origins": [
+            [
+              51.04,
+              "E"
+            ],
+            [
+              58.35,
+              "m"
+            ],
+            [
+              69.48,
+              "a"
+            ],
+            [
+              76.24,
+              "i"
+            ],
+            [
+              79.48,
+              "l"
+            ],
+            [
+              83.03,
+              " "
+            ],
+            [
+              86.0,
+              "u"
+            ],
+            [
+              93.42,
+              "s"
+            ],
+            [
+              99.46,
+              " "
+            ],
+            [
+              102.43,
+              "a"
+            ],
+            [
+              109.18,
+              "t"
+            ],
+            [
+              114.16,
+              " "
+            ],
+            [
+              117.13,
+              "a"
+            ],
+            [
+              123.88,
+              "c"
+            ],
+            [
+              130.62,
+              "c"
+            ],
+            [
+              137.35,
+              "o"
+            ],
+            [
+              144.84,
+              "u"
+            ],
+            [
+              152.26,
+              "n"
+            ],
+            [
+              159.78,
+              "t"
+            ],
+            [
+              164.75,
+              "s"
+            ],
+            [
+              170.79,
+              " "
+            ],
+            [
+              173.76,
+              "h"
+            ],
+            [
+              181.28,
+              "e"
+            ],
+            [
+              188.24,
+              "l"
+            ],
+            [
+              191.79,
+              "l"
+            ],
+            [
+              195.35,
+              "o"
+            ],
+            [
+              202.84,
+              "@"
+            ],
+            [
+              214.63,
+              "r"
+            ],
+            [
+              219.67,
+              "e"
+            ],
+            [
+              226.63,
+              "a"
+            ],
+            [
+              233.39,
+              "l"
+            ],
+            [
+              236.94,
+              "l"
+            ],
+            [
+              240.49,
+              "y"
+            ],
+            [
+              247.38,
+              "g"
+            ],
+            [
+              254.07,
+              "r"
+            ],
+            [
+              259.11,
+              "e"
+            ],
+            [
+              266.07,
+              "a"
+            ],
+            [
+              272.83,
+              "t"
+            ],
+            [
+              277.8,
+              "s"
+            ],
+            [
+              283.84,
+              "i"
+            ],
+            [
+              287.08,
+              "t"
+            ],
+            [
+              292.05,
+              "e"
+            ],
+            [
+              299.01,
+              "."
+            ],
+            [
+              302.21,
+              "c"
+            ],
+            [
+              308.94,
+              "o"
+            ],
+            [
+              316.43,
+              "m"
+            ]
+          ],
+          "width": 276.52,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0037"
+        },
+        {
+          "type": "text",
+          "value": "or call us at 123-456-7890",
+          "x": 51.04,
+          "y": 763.73,
+          "baseline_y": 776.69,
+          "char_origins": [
+            [
+              51.04,
+              "o"
+            ],
+            [
+              58.54,
+              "r"
+            ],
+            [
+              63.58,
+              " "
+            ],
+            [
+              66.55,
+              "c"
+            ],
+            [
+              73.28,
+              "a"
+            ],
+            [
+              80.04,
+              "l"
+            ],
+            [
+              83.59,
+              "l"
+            ],
+            [
+              87.14,
+              " "
+            ],
+            [
+              90.12,
+              "u"
+            ],
+            [
+              97.53,
+              "s"
+            ],
+            [
+              103.57,
+              " "
+            ],
+            [
+              106.54,
+              "a"
+            ],
+            [
+              113.3,
+              "t"
+            ],
+            [
+              118.27,
+              " "
+            ],
+            [
+              121.24,
+              "1"
+            ],
+            [
+              127.7,
+              "2"
+            ],
+            [
+              134.35,
+              "3"
+            ],
+            [
+              141.38,
+              "-"
+            ],
+            [
+              145.98,
+              "4"
+            ],
+            [
+              153.31,
+              "5"
+            ],
+            [
+              160.48,
+              "6"
+            ],
+            [
+              168.27,
+              "-"
+            ],
+            [
+              172.87,
+              "7"
+            ],
+            [
+              178.85,
+              "8"
+            ],
+            [
+              186.17,
+              "9"
+            ],
+            [
+              193.96,
+              "0"
+            ]
+          ],
+          "width": 151.43,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0038"
+        },
+        {
+          "type": "text",
+          "value": "123 Anywhere St., Any City, State, Country 12345",
+          "x": 51.33,
+          "y": 780.94,
+          "baseline_y": 793.9,
+          "char_origins": [
+            [
+              51.33,
+              "1"
+            ],
+            [
+              57.79,
+              "2"
+            ],
+            [
+              64.44,
+              "3"
+            ],
+            [
+              71.47,
+              " "
+            ],
+            [
+              74.44,
+              "A"
+            ],
+            [
+              82.58,
+              "n"
+            ],
+            [
+              90.1,
+              "y"
+            ],
+            [
+              96.98,
+              "w"
+            ],
+            [
+              106.5,
+              "h"
+            ],
+            [
+              114.02,
+              "e"
+            ],
+            [
+              120.98,
+              "r"
+            ],
+            [
+              126.03,
+              "e"
+            ],
+            [
+              132.99,
+              " "
+            ],
+            [
+              135.96,
+              "S"
+            ],
+            [
+              143.38,
+              "t"
+            ],
+            [
+              148.35,
+              "."
+            ],
+            [
+              151.54,
+              ","
+            ],
+            [
+              154.76,
+              " "
+            ],
+            [
+              157.73,
+              "A"
+            ],
+            [
+              165.86,
+              "n"
+            ],
+            [
+              173.38,
+              "y"
+            ],
+            [
+              180.27,
+              " "
+            ],
+            [
+              183.24,
+              "C"
+            ],
+            [
+              191.73,
+              "i"
+            ],
+            [
+              194.97,
+              "t"
+            ],
+            [
+              199.94,
+              "y"
+            ],
+            [
+              206.83,
+              ","
+            ],
+            [
+              210.04,
+              " "
+            ],
+            [
+              213.01,
+              "S"
+            ],
+            [
+              220.43,
+              "t"
+            ],
+            [
+              225.4,
+              "a"
+            ],
+            [
+              232.16,
+              "t"
+            ],
+            [
+              237.13,
+              "e"
+            ],
+            [
+              244.09,
+              ","
+            ],
+            [
+              247.31,
+              " "
+            ],
+            [
+              250.28,
+              "C"
+            ],
+            [
+              258.77,
+              "o"
+            ],
+            [
+              266.26,
+              "u"
+            ],
+            [
+              273.68,
+              "n"
+            ],
+            [
+              281.2,
+              "t"
+            ],
+            [
+              286.17,
+              "r"
+            ],
+            [
+              291.22,
+              "y"
+            ],
+            [
+              298.1,
+              " "
+            ],
+            [
+              301.07,
+              "1"
+            ],
+            [
+              307.53,
+              "2"
+            ],
+            [
+              314.18,
+              "3"
+            ],
+            [
+              321.21,
+              "4"
+            ],
+            [
+              328.55,
+              "5"
+            ]
+          ],
+          "width": 284.38,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0039"
+        },
+        {
+          "type": "text",
+          "value": "Flyer Design",
+          "x": 55.46,
+          "y": 374.6,
+          "baseline_y": 387.56,
+          "char_origins": [
+            [
+              55.46,
+              "F"
+            ],
+            [
+              62.33,
+              "l"
+            ],
+            [
+              65.88,
+              "y"
+            ],
+            [
+              72.76,
+              "e"
+            ],
+            [
+              79.73,
+              "r"
+            ],
+            [
+              84.77,
+              " "
+            ],
+            [
+              87.74,
+              "D"
+            ],
+            [
+              96.94,
+              "e"
+            ],
+            [
+              103.9,
+              "s"
+            ],
+            [
+              109.94,
+              "i"
+            ],
+            [
+              113.18,
+              "g"
+            ],
+            [
+              119.87,
+              "n"
+            ]
+          ],
+          "width": 71.92,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0040"
+        },
+        {
+          "type": "text",
+          "value": "Business Card Design",
+          "x": 55.46,
+          "y": 406.74,
+          "baseline_y": 419.7,
+          "char_origins": [
+            [
+              55.46,
+              "B"
+            ],
+            [
+              63.79,
+              "u"
+            ],
+            [
+              71.21,
+              "s"
+            ],
+            [
+              77.25,
+              "i"
+            ],
+            [
+              80.49,
+              "n"
+            ],
+            [
+              88.01,
+              "e"
+            ],
+            [
+              94.97,
+              "s"
+            ],
+            [
+              101.01,
+              "s"
+            ],
+            [
+              107.05,
+              " "
+            ],
+            [
+              110.02,
+              "C"
+            ],
+            [
+              118.51,
+              "a"
+            ],
+            [
+              125.26,
+              "r"
+            ],
+            [
+              130.31,
+              "d"
+            ],
+            [
+              138.1,
+              " "
+            ],
+            [
+              141.08,
+              "D"
+            ],
+            [
+              150.28,
+              "e"
+            ],
+            [
+              157.24,
+              "s"
+            ],
+            [
+              163.28,
+              "i"
+            ],
+            [
+              166.51,
+              "g"
+            ],
+            [
+              173.2,
+              "n"
+            ]
+          ],
+          "width": 125.26,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0041"
+        },
+        {
+          "type": "text",
+          "value": "Invoice Design",
+          "x": 55.46,
+          "y": 439.91,
+          "baseline_y": 452.87,
+          "char_origins": [
+            [
+              55.46,
+              "I"
+            ],
+            [
+              59.11,
+              "n"
+            ],
+            [
+              66.62,
+              "v"
+            ],
+            [
+              73.54,
+              "o"
+            ],
+            [
+              81.04,
+              "i"
+            ],
+            [
+              84.28,
+              "c"
+            ],
+            [
+              91.01,
+              "e"
+            ],
+            [
+              97.97,
+              " "
+            ],
+            [
+              100.94,
+              "D"
+            ],
+            [
+              110.14,
+              "e"
+            ],
+            [
+              117.1,
+              "s"
+            ],
+            [
+              123.14,
+              "i"
+            ],
+            [
+              126.38,
+              "g"
+            ],
+            [
+              133.07,
+              "n"
+            ]
+          ],
+          "width": 85.13,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0042"
+        },
+        {
+          "type": "text",
+          "value": "Flyer Design",
+          "x": 55.46,
+          "y": 474.12,
+          "baseline_y": 487.09,
+          "char_origins": [
+            [
+              55.46,
+              "F"
+            ],
+            [
+              62.33,
+              "l"
+            ],
+            [
+              65.88,
+              "y"
+            ],
+            [
+              72.76,
+              "e"
+            ],
+            [
+              79.73,
+              "r"
+            ],
+            [
+              84.77,
+              " "
+            ],
+            [
+              87.74,
+              "D"
+            ],
+            [
+              96.94,
+              "e"
+            ],
+            [
+              103.9,
+              "s"
+            ],
+            [
+              109.94,
+              "i"
+            ],
+            [
+              113.18,
+              "g"
+            ],
+            [
+              119.87,
+              "n"
+            ]
+          ],
+          "width": 71.92,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0043"
+        },
+        {
+          "type": "text",
+          "value": "Logo Design",
+          "x": 55.75,
+          "y": 506.26,
+          "baseline_y": 519.22,
+          "char_origins": [
+            [
+              55.75,
+              "L"
+            ],
+            [
+              62.62,
+              "o"
+            ],
+            [
+              70.11,
+              "g"
+            ],
+            [
+              76.8,
+              "o"
+            ],
+            [
+              84.3,
+              " "
+            ],
+            [
+              87.27,
+              "D"
+            ],
+            [
+              96.47,
+              "e"
+            ],
+            [
+              103.43,
+              "s"
+            ],
+            [
+              109.47,
+              "i"
+            ],
+            [
+              112.71,
+              "g"
+            ],
+            [
+              119.4,
+              "n"
+            ]
+          ],
+          "width": 71.16,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0044"
+        },
+        {
+          "type": "text",
+          "value": "$300",
+          "x": 379.5,
+          "y": 374.6,
+          "baseline_y": 387.56,
+          "char_origins": [
+            [
+              379.5,
+              "$"
+            ],
+            [
+              386.92,
+              "3"
+            ],
+            [
+              393.96,
+              "0"
+            ],
+            [
+              402.47,
+              "0"
+            ]
+          ],
+          "width": 31.48,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0045"
+        },
+        {
+          "type": "text",
+          "value": "$200",
+          "x": 380.6,
+          "y": 407.26,
+          "baseline_y": 420.22,
+          "char_origins": [
+            [
+              380.6,
+              "$"
+            ],
+            [
+              388.01,
+              "2"
+            ],
+            [
+              394.67,
+              "0"
+            ],
+            [
+              403.18,
+              "0"
+            ]
+          ],
+          "width": 31.1,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0046"
+        },
+        {
+          "type": "text",
+          "value": "$250",
+          "x": 380.52,
+          "y": 440.43,
+          "baseline_y": 453.39,
+          "char_origins": [
+            [
+              380.52,
+              "$"
+            ],
+            [
+              387.94,
+              "2"
+            ],
+            [
+              394.59,
+              "5"
+            ],
+            [
+              401.76,
+              "0"
+            ]
+          ],
+          "width": 29.75,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0047"
+        },
+        {
+          "type": "text",
+          "value": "$500",
+          "x": 379.5,
+          "y": 473.61,
+          "baseline_y": 486.57,
+          "char_origins": [
+            [
+              379.5,
+              "$"
+            ],
+            [
+              386.92,
+              "5"
+            ],
+            [
+              394.09,
+              "0"
+            ],
+            [
+              402.6,
+              "0"
+            ]
+          ],
+          "width": 31.61,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0048"
+        },
+        {
+          "type": "text",
+          "value": "$500",
+          "x": 379.5,
+          "y": 507.3,
+          "baseline_y": 520.26,
+          "char_origins": [
+            [
+              379.5,
+              "$"
+            ],
+            [
+              386.92,
+              "5"
+            ],
+            [
+              394.09,
+              "0"
+            ],
+            [
+              402.6,
+              "0"
+            ]
+          ],
+          "width": 31.61,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0049"
+        },
+        {
+          "type": "text",
+          "value": "$300",
+          "x": 481.79,
+          "y": 374.6,
+          "baseline_y": 387.56,
+          "char_origins": [
+            [
+              481.79,
+              "$"
+            ],
+            [
+              489.2,
+              "3"
+            ],
+            [
+              496.24,
+              "0"
+            ],
+            [
+              504.75,
+              "0"
+            ]
+          ],
+          "width": 31.48,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0050"
+        },
+        {
+          "type": "text",
+          "value": "$200",
+          "x": 482.88,
+          "y": 407.26,
+          "baseline_y": 420.22,
+          "char_origins": [
+            [
+              482.88,
+              "$"
+            ],
+            [
+              490.3,
+              "2"
+            ],
+            [
+              496.95,
+              "0"
+            ],
+            [
+              505.46,
+              "0"
+            ]
+          ],
+          "width": 31.1,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0051"
+        },
+        {
+          "type": "text",
+          "value": "$250",
+          "x": 482.8,
+          "y": 440.43,
+          "baseline_y": 453.39,
+          "char_origins": [
+            [
+              482.8,
+              "$"
+            ],
+            [
+              490.22,
+              "2"
+            ],
+            [
+              496.88,
+              "5"
+            ],
+            [
+              504.04,
+              "0"
+            ]
+          ],
+          "width": 29.75,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0052"
+        },
+        {
+          "type": "text",
+          "value": "$500",
+          "x": 481.79,
+          "y": 473.61,
+          "baseline_y": 486.57,
+          "char_origins": [
+            [
+              481.79,
+              "$"
+            ],
+            [
+              489.2,
+              "5"
+            ],
+            [
+              496.37,
+              "0"
+            ],
+            [
+              504.88,
+              "0"
+            ]
+          ],
+          "width": 31.61,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0053"
+        },
+        {
+          "type": "text",
+          "value": "$500",
+          "x": 481.79,
+          "y": 507.3,
+          "baseline_y": 520.26,
+          "char_origins": [
+            [
+              481.79,
+              "$"
+            ],
+            [
+              489.2,
+              "5"
+            ],
+            [
+              496.37,
+              "0"
+            ],
+            [
+              504.88,
+              "0"
+            ]
+          ],
+          "width": 31.61,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0054"
+        },
+        {
+          "type": "text",
+          "value": "$1750",
+          "x": 490.05,
+          "y": 557.48,
+          "baseline_y": 570.44,
+          "char_origins": [
+            [
+              490.05,
+              "$"
+            ],
+            [
+              497.47,
+              "1"
+            ],
+            [
+              503.92,
+              "7"
+            ],
+            [
+              509.9,
+              "5"
+            ],
+            [
+              517.06,
+              "0"
+            ]
+          ],
+          "width": 35.53,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0055"
+        },
+        {
+          "type": "text",
+          "value": "$2300",
+          "x": 490.05,
+          "y": 581.45,
+          "baseline_y": 594.41,
+          "char_origins": [
+            [
+              490.05,
+              "$"
+            ],
+            [
+              497.47,
+              "2"
+            ],
+            [
+              504.12,
+              "3"
+            ],
+            [
+              511.16,
+              "0"
+            ],
+            [
+              519.67,
+              "0"
+            ]
+          ],
+          "width": 38.13,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0056"
+        },
+        {
+          "type": "text",
+          "value": "tax (15%)",
+          "x": 390.92,
+          "y": 581.45,
+          "baseline_y": 594.41,
+          "char_origins": [
+            [
+              390.92,
+              "t"
+            ],
+            [
+              395.89,
+              "a"
+            ],
+            [
+              402.65,
+              "x"
+            ],
+            [
+              408.73,
+              " "
+            ],
+            [
+              411.7,
+              "("
+            ],
+            [
+              415.65,
+              "1"
+            ],
+            [
+              422.1,
+              "5"
+            ],
+            [
+              429.26,
+              "%"
+            ],
+            [
+              439.5,
+              ")"
+            ]
+          ],
+          "width": 52.52,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0057"
+        },
+        {
+          "type": "text",
+          "value": "$21.300",
+          "x": 490.05,
+          "y": 600.07,
+          "baseline_y": 613.03,
+          "char_origins": [
+            [
+              490.05,
+              "$"
+            ],
+            [
+              497.47,
+              "2"
+            ],
+            [
+              504.12,
+              "1"
+            ],
+            [
+              510.58,
+              "."
+            ],
+            [
+              513.77,
+              "3"
+            ],
+            [
+              520.8,
+              "0"
+            ],
+            [
+              529.31,
+              "0"
+            ]
+          ],
+          "width": 47.77,
+          "height": 16.51,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 12.13,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0058"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE NO, 1234567890 / JANUARY 1ST",
+          "x": 39.04,
+          "y": 151.61,
+          "baseline_y": 167.65,
+          "char_origins": [
+            [
+              39.04,
+              "I"
+            ],
+            [
+              43.55,
+              "N"
+            ],
+            [
+              54.97,
+              "V"
+            ],
+            [
+              64.97,
+              "O"
+            ],
+            [
+              76.72,
+              "I"
+            ],
+            [
+              81.23,
+              "C"
+            ],
+            [
+              91.73,
+              "E"
+            ],
+            [
+              100.78,
+              " "
+            ],
+            [
+              104.45,
+              "N"
+            ],
+            [
+              115.87,
+              "O"
+            ],
+            [
+              127.62,
+              ","
+            ],
+            [
+              131.6,
+              " "
+            ],
+            [
+              135.28,
+              "1"
+            ],
+            [
+              143.26,
+              "2"
+            ],
+            [
+              151.5,
+              "3"
+            ],
+            [
+              160.2,
+              "4"
+            ],
+            [
+              169.28,
+              "5"
+            ],
+            [
+              178.15,
+              "6"
+            ],
+            [
+              187.8,
+              "7"
+            ],
+            [
+              195.19,
+              "8"
+            ],
+            [
+              204.26,
+              "9"
+            ],
+            [
+              213.91,
+              "0"
+            ],
+            [
+              224.44,
+              " "
+            ],
+            [
+              228.12,
+              "/"
+            ],
+            [
+              233.91,
+              " "
+            ],
+            [
+              237.58,
+              "J"
+            ],
+            [
+              245.88,
+              "A"
+            ],
+            [
+              255.95,
+              "N"
+            ],
+            [
+              267.37,
+              "U"
+            ],
+            [
+              278.41,
+              "A"
+            ],
+            [
+              288.48,
+              "R"
+            ],
+            [
+              298.4,
+              "Y"
+            ],
+            [
+              307.62,
+              " "
+            ],
+            [
+              311.29,
+              "1"
+            ],
+            [
+              319.28,
+              "S"
+            ],
+            [
+              328.46,
+              "T"
+            ]
+          ],
+          "width": 298.16,
+          "height": 20.43,
+          "font_family": "CanvaSans-Regular",
+          "font_size": 15.01,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CanvaSans-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0059"
+        },
+        {
+          "type": "table",
+          "x": 0.0,
+          "y": -7.83,
+          "width": 595.61,
+          "height": 842.41,
+          "columns": 2,
+          "rows": 0,
+          "headers": [
+            "",
+            "INVOICE\nINVOICE NO, 1234567890 / JANUARY 1ST\nINVOICE TO\nSAMIRA HADID\n123 Anywhere St., Any City, State, Country 12345\n+123-456-7890 (Mobile)\nITEM QTY PRIZE TOTAL\nFlyer Design 02 $300 $300\nBusiness Card Design 02 $200 $200\nInvoice Design 02 $250 $250\nFlyer Design 01 $500 $500\nLogo Design 01 $500 $500\nSubtotal $1750\ntax (15%) $2300\nGrand Total $21.300\nEmail us at accounts hello@reallygreatsite.com\nor call us at 123-456-7890\n123 Anywhere St., Any City, State, Country 12345"
+          ],
+          "cells": [],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0060"
+        },
+        {
+          "type": "table",
+          "x": 51.03,
+          "y": 325.19,
+          "width": 509.4,
+          "height": 197.87,
+          "columns": 1,
+          "rows": 5,
+          "headers": [
+            "ITEM QTY PRIZE TOTAL"
+          ],
+          "cells": [
+            [
+              "Flyer Design 02 $300 $300"
+            ],
+            [
+              "Business Card Design 02 $200 $200"
+            ],
+            [
+              "Invoice Design 02 $250 $250"
+            ],
+            [
+              "Flyer Design 01 $500 $500"
+            ],
+            [
+              "Logo Design 01 $500 $500"
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0061"
+        }
+      ]
+    }
+  ]
+}

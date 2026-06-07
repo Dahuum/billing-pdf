@@ -1,0 +1,3201 @@
+{
+  "source_file": "t7.pdf",
+  "page_count": 1,
+  "fonts": {
+    "AAAAAA+CourierPrime-Regular": "t7_extracted/fonts/AAAAAA_CourierPrime-Regular.ttf",
+    "BAAAAA+OpenSauceOne-Black": "t7_extracted/fonts/BAAAAA_OpenSauceOne-Black.ttf",
+    "CAAAAA+CourierPrime-Bold": "t7_extracted/fonts/CAAAAA_CourierPrime-Bold.ttf"
+  },
+  "subset_fonts": {
+    "AAAAAA+CourierPrime-Regular": {
+      "base_name": "CourierPrime-Regular",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    },
+    "BAAAAA+OpenSauceOne-Black": {
+      "base_name": "OpenSauceOne-Black",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": true
+    },
+    "CAAAAA+CourierPrime-Bold": {
+      "base_name": "CourierPrime-Bold",
+      "fallback": "Helvetica",
+      "is_subset": true,
+      "font_type": "Type0",
+      "skipped": false,
+      "is_decorative": false
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "width_pt": 595.5,
+      "height_pt": 842.25,
+      "is_scanned": false,
+      "elements": [
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.5,
+          "height": 842.25,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.75,
+          "origin": "pymupdf",
+          "id": "p1_elem_0001"
+        },
+        {
+          "type": "rectangle",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 595.72,
+          "height": 842.57,
+          "fill_color": "#FFFFFF",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 297.86,
+          "origin": "pymupdf",
+          "id": "p1_elem_0002"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.06,
+          "y": 387.08,
+          "width": 518.39,
+          "height": 31.98,
+          "fill_color": "#F7F7F8",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 15.99,
+          "origin": "pymupdf",
+          "id": "p1_elem_0003"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.06,
+          "y": 451.06,
+          "width": 518.39,
+          "height": 31.98,
+          "fill_color": "#F7F7F8",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 15.99,
+          "origin": "pymupdf",
+          "id": "p1_elem_0004"
+        },
+        {
+          "type": "rectangle",
+          "x": 353.18,
+          "y": 586.99,
+          "width": 196.74,
+          "height": 31.98,
+          "fill_color": "#F7F7F8",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 15.99,
+          "origin": "pymupdf",
+          "id": "p1_elem_0005"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.06,
+          "y": -160.37,
+          "width": 521.3,
+          "height": 178.65,
+          "fill_color": "#000000",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 89.32,
+          "origin": "pymupdf",
+          "id": "p1_elem_0006"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.06,
+          "y": 337.68,
+          "width": 521.69,
+          "height": 37.39,
+          "fill_color": "#000000",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 18.69,
+          "origin": "pymupdf",
+          "id": "p1_elem_0007"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.06,
+          "y": 823.01,
+          "width": 521.3,
+          "height": 178.65,
+          "fill_color": "#000000",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 89.32,
+          "origin": "pymupdf",
+          "id": "p1_elem_0008"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.05,
+          "y": -160.31,
+          "width": 521.44,
+          "height": 178.58,
+          "fill_color": null,
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0009"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.05,
+          "y": 337.56,
+          "width": 521.44,
+          "height": 37.37,
+          "fill_color": null,
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0010"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.05,
+          "y": 386.93,
+          "width": 518.22,
+          "height": 31.97,
+          "fill_color": "#F6F6F7",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0011"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.05,
+          "y": 450.89,
+          "width": 518.22,
+          "height": 31.97,
+          "fill_color": "#F6F6F7",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0012"
+        },
+        {
+          "type": "rectangle",
+          "x": 353.04,
+          "y": 586.77,
+          "width": 196.64,
+          "height": 31.97,
+          "fill_color": "#F6F6F7",
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0013"
+        },
+        {
+          "type": "rectangle",
+          "x": 32.05,
+          "y": 822.7,
+          "width": 521.44,
+          "height": 178.58,
+          "fill_color": null,
+          "stroke_color": null,
+          "stroke_width": 0,
+          "border_radius": 0,
+          "origin": "pymupdf",
+          "id": "p1_elem_0014"
+        },
+        {
+          "type": "text",
+          "value": "Consulting Services",
+          "x": 128.29,
+          "y": 396.91,
+          "baseline_y": 405.18,
+          "char_origins": [
+            [
+              128.29,
+              "C"
+            ],
+            [
+              135.1,
+              "o"
+            ],
+            [
+              141.91,
+              "n"
+            ],
+            [
+              148.71,
+              "s"
+            ],
+            [
+              155.52,
+              "u"
+            ],
+            [
+              162.32,
+              "l"
+            ],
+            [
+              169.13,
+              "t"
+            ],
+            [
+              175.94,
+              "i"
+            ],
+            [
+              182.74,
+              "n"
+            ],
+            [
+              189.55,
+              "g"
+            ],
+            [
+              196.35,
+              " "
+            ],
+            [
+              203.16,
+              "S"
+            ],
+            [
+              209.97,
+              "e"
+            ],
+            [
+              216.77,
+              "r"
+            ],
+            [
+              223.58,
+              "v"
+            ],
+            [
+              230.38,
+              "i"
+            ],
+            [
+              237.19,
+              "c"
+            ],
+            [
+              244.0,
+              "e"
+            ],
+            [
+              250.8,
+              "s"
+            ]
+          ],
+          "width": 128.85,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0015"
+        },
+        {
+          "type": "text",
+          "value": "Website Development",
+          "x": 128.29,
+          "y": 427.13,
+          "baseline_y": 435.4,
+          "char_origins": [
+            [
+              128.29,
+              "W"
+            ],
+            [
+              135.1,
+              "e"
+            ],
+            [
+              141.91,
+              "b"
+            ],
+            [
+              148.71,
+              "s"
+            ],
+            [
+              155.52,
+              "i"
+            ],
+            [
+              162.32,
+              "t"
+            ],
+            [
+              169.13,
+              "e"
+            ],
+            [
+              175.94,
+              " "
+            ],
+            [
+              182.74,
+              "D"
+            ],
+            [
+              189.55,
+              "e"
+            ],
+            [
+              196.35,
+              "v"
+            ],
+            [
+              203.16,
+              "e"
+            ],
+            [
+              209.97,
+              "l"
+            ],
+            [
+              216.77,
+              "o"
+            ],
+            [
+              223.58,
+              "p"
+            ],
+            [
+              230.38,
+              "m"
+            ],
+            [
+              237.19,
+              "e"
+            ],
+            [
+              244.0,
+              "n"
+            ],
+            [
+              250.8,
+              "t"
+            ]
+          ],
+          "width": 128.85,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0016"
+        },
+        {
+          "type": "text",
+          "value": "Graphic Design Services",
+          "x": 128.29,
+          "y": 460.9,
+          "baseline_y": 469.16,
+          "char_origins": [
+            [
+              128.29,
+              "G"
+            ],
+            [
+              135.1,
+              "r"
+            ],
+            [
+              141.91,
+              "a"
+            ],
+            [
+              148.71,
+              "p"
+            ],
+            [
+              155.52,
+              "h"
+            ],
+            [
+              162.32,
+              "i"
+            ],
+            [
+              169.13,
+              "c"
+            ],
+            [
+              175.94,
+              " "
+            ],
+            [
+              182.74,
+              "D"
+            ],
+            [
+              189.55,
+              "e"
+            ],
+            [
+              196.35,
+              "s"
+            ],
+            [
+              203.16,
+              "i"
+            ],
+            [
+              209.97,
+              "g"
+            ],
+            [
+              216.77,
+              "n"
+            ],
+            [
+              223.58,
+              " "
+            ],
+            [
+              230.38,
+              "S"
+            ],
+            [
+              237.19,
+              "e"
+            ],
+            [
+              244.0,
+              "r"
+            ],
+            [
+              250.8,
+              "v"
+            ],
+            [
+              257.61,
+              "i"
+            ],
+            [
+              264.41,
+              "c"
+            ],
+            [
+              271.22,
+              "e"
+            ],
+            [
+              278.03,
+              "s"
+            ]
+          ],
+          "width": 156.08,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0017"
+        },
+        {
+          "type": "text",
+          "value": "INVOICE",
+          "x": 42.19,
+          "y": 57.81,
+          "baseline_y": 80.54,
+          "char_origins": [
+            [
+              42.19,
+              "I"
+            ],
+            [
+              49.0,
+              "N"
+            ],
+            [
+              66.59,
+              "V"
+            ],
+            [
+              82.67,
+              "O"
+            ],
+            [
+              101.44,
+              "I"
+            ],
+            [
+              108.25,
+              "C"
+            ],
+            [
+              125.95,
+              "E"
+            ]
+          ],
+          "width": 97.95,
+          "height": 28.11,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 22.73,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0018"
+        },
+        {
+          "type": "text",
+          "value": "D E S C R I P T I O N",
+          "x": 127.4,
+          "y": 348.61,
+          "baseline_y": 361.26,
+          "char_origins": [
+            [
+              127.4,
+              "D"
+            ],
+            [
+              136.58,
+              " "
+            ],
+            [
+              139.0,
+              "E"
+            ],
+            [
+              146.89,
+              " "
+            ],
+            [
+              149.32,
+              "S"
+            ],
+            [
+              158.32,
+              " "
+            ],
+            [
+              160.74,
+              "C"
+            ],
+            [
+              170.59,
+              " "
+            ],
+            [
+              173.02,
+              "R"
+            ],
+            [
+              181.97,
+              " "
+            ],
+            [
+              184.39,
+              "I"
+            ],
+            [
+              188.19,
+              " "
+            ],
+            [
+              190.61,
+              "P"
+            ],
+            [
+              199.25,
+              " "
+            ],
+            [
+              201.67,
+              "T"
+            ],
+            [
+              209.57,
+              " "
+            ],
+            [
+              212.0,
+              "I"
+            ],
+            [
+              215.79,
+              " "
+            ],
+            [
+              218.22,
+              "O"
+            ],
+            [
+              228.66,
+              " "
+            ],
+            [
+              231.09,
+              "N"
+            ]
+          ],
+          "width": 113.47,
+          "height": 15.64,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.64,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0019"
+        },
+        {
+          "type": "text",
+          "value": "Kimberly Nguyen",
+          "x": 42.19,
+          "y": 236.61,
+          "baseline_y": 246.42,
+          "char_origins": [
+            [
+              42.19,
+              "K"
+            ],
+            [
+              50.23,
+              "i"
+            ],
+            [
+              58.28,
+              "m"
+            ],
+            [
+              66.33,
+              "b"
+            ],
+            [
+              74.38,
+              "e"
+            ],
+            [
+              82.43,
+              "r"
+            ],
+            [
+              90.48,
+              "l"
+            ],
+            [
+              98.53,
+              "y"
+            ],
+            [
+              106.58,
+              " "
+            ],
+            [
+              114.62,
+              "N"
+            ],
+            [
+              122.67,
+              "g"
+            ],
+            [
+              130.72,
+              "u"
+            ],
+            [
+              138.77,
+              "y"
+            ],
+            [
+              146.82,
+              "e"
+            ],
+            [
+              154.87,
+              "n"
+            ]
+          ],
+          "width": 120.21,
+          "height": 14.1,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 12.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0020"
+        },
+        {
+          "type": "text",
+          "value": "123 Anywhere St., ",
+          "x": 42.19,
+          "y": 256.12,
+          "baseline_y": 265.93,
+          "char_origins": [
+            [
+              42.19,
+              "1"
+            ],
+            [
+              50.23,
+              "2"
+            ],
+            [
+              58.28,
+              "3"
+            ],
+            [
+              66.33,
+              " "
+            ],
+            [
+              74.38,
+              "A"
+            ],
+            [
+              82.43,
+              "n"
+            ],
+            [
+              90.48,
+              "y"
+            ],
+            [
+              98.53,
+              "w"
+            ],
+            [
+              106.58,
+              "h"
+            ],
+            [
+              114.62,
+              "e"
+            ],
+            [
+              122.67,
+              "r"
+            ],
+            [
+              130.72,
+              "e"
+            ],
+            [
+              138.77,
+              " "
+            ],
+            [
+              146.82,
+              "S"
+            ],
+            [
+              154.87,
+              "t"
+            ],
+            [
+              162.92,
+              "."
+            ],
+            [
+              170.96,
+              ","
+            ],
+            [
+              179.02,
+              " "
+            ]
+          ],
+          "width": 144.36,
+          "height": 14.1,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 12.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0021"
+        },
+        {
+          "type": "text",
+          "value": "Any City, ST 12345",
+          "x": 42.19,
+          "y": 275.63,
+          "baseline_y": 285.43,
+          "char_origins": [
+            [
+              42.19,
+              "A"
+            ],
+            [
+              50.23,
+              "n"
+            ],
+            [
+              58.28,
+              "y"
+            ],
+            [
+              66.33,
+              " "
+            ],
+            [
+              74.38,
+              "C"
+            ],
+            [
+              82.43,
+              "i"
+            ],
+            [
+              90.48,
+              "t"
+            ],
+            [
+              98.53,
+              "y"
+            ],
+            [
+              106.58,
+              ","
+            ],
+            [
+              114.62,
+              " "
+            ],
+            [
+              122.67,
+              "S"
+            ],
+            [
+              130.72,
+              "T"
+            ],
+            [
+              138.77,
+              " "
+            ],
+            [
+              146.82,
+              "1"
+            ],
+            [
+              154.87,
+              "2"
+            ],
+            [
+              162.92,
+              "3"
+            ],
+            [
+              170.96,
+              "4"
+            ],
+            [
+              179.01,
+              "5"
+            ]
+          ],
+          "width": 144.36,
+          "height": 14.1,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 12.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0022"
+        },
+        {
+          "type": "text",
+          "value": "I T E M",
+          "x": 47.94,
+          "y": 348.61,
+          "baseline_y": 361.26,
+          "char_origins": [
+            [
+              47.94,
+              "I"
+            ],
+            [
+              51.73,
+              " "
+            ],
+            [
+              54.16,
+              "T"
+            ],
+            [
+              62.06,
+              " "
+            ],
+            [
+              64.48,
+              "E"
+            ],
+            [
+              72.37,
+              " "
+            ],
+            [
+              74.8,
+              "M"
+            ]
+          ],
+          "width": 38.86,
+          "height": 15.64,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.64,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0023"
+        },
+        {
+          "type": "text",
+          "value": "A M O U N T",
+          "x": 463.34,
+          "y": 348.61,
+          "baseline_y": 361.26,
+          "char_origins": [
+            [
+              463.34,
+              "A"
+            ],
+            [
+              472.44,
+              " "
+            ],
+            [
+              474.87,
+              "M"
+            ],
+            [
+              486.86,
+              " "
+            ],
+            [
+              489.29,
+              "O"
+            ],
+            [
+              499.73,
+              " "
+            ],
+            [
+              502.16,
+              "U"
+            ],
+            [
+              511.69,
+              " "
+            ],
+            [
+              514.11,
+              "N"
+            ],
+            [
+              523.9,
+              " "
+            ],
+            [
+              526.32,
+              "T"
+            ]
+          ],
+          "width": 70.89,
+          "height": 15.64,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.64,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0024"
+        },
+        {
+          "type": "text",
+          "value": "P R I C E",
+          "x": 368.38,
+          "y": 348.61,
+          "baseline_y": 361.26,
+          "char_origins": [
+            [
+              368.38,
+              "P"
+            ],
+            [
+              377.01,
+              " "
+            ],
+            [
+              379.44,
+              "R"
+            ],
+            [
+              388.39,
+              " "
+            ],
+            [
+              390.81,
+              "I"
+            ],
+            [
+              394.61,
+              " "
+            ],
+            [
+              397.03,
+              "C"
+            ],
+            [
+              406.88,
+              " "
+            ],
+            [
+              409.31,
+              "E"
+            ]
+          ],
+          "width": 48.82,
+          "height": 15.64,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.64,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#FFFFFF",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0025"
+        },
+        {
+          "type": "text",
+          "value": "BILL TO:",
+          "x": 42.19,
+          "y": 199.62,
+          "baseline_y": 222.34,
+          "char_origins": [
+            [
+              42.19,
+              "B"
+            ],
+            [
+              58.16,
+              "I"
+            ],
+            [
+              64.97,
+              "L"
+            ],
+            [
+              77.65,
+              "L"
+            ],
+            [
+              90.33,
+              " "
+            ],
+            [
+              96.24,
+              "T"
+            ],
+            [
+              110.44,
+              "O"
+            ],
+            [
+              129.2,
+              ":"
+            ]
+          ],
+          "width": 93.04,
+          "height": 28.11,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 22.73,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0026"
+        },
+        {
+          "type": "text",
+          "value": "SALFORD & CO.",
+          "x": 355.39,
+          "y": 57.81,
+          "baseline_y": 80.54,
+          "char_origins": [
+            [
+              355.39,
+              "S"
+            ],
+            [
+              371.57,
+              "A"
+            ],
+            [
+              387.92,
+              "L"
+            ],
+            [
+              400.6,
+              "F"
+            ],
+            [
+              414.37,
+              "O"
+            ],
+            [
+              433.14,
+              "R"
+            ],
+            [
+              449.22,
+              "D"
+            ],
+            [
+              465.72,
+              " "
+            ],
+            [
+              471.62,
+              "&"
+            ],
+            [
+              488.89,
+              " "
+            ],
+            [
+              494.8,
+              "C"
+            ],
+            [
+              512.5,
+              "O"
+            ],
+            [
+              531.26,
+              "."
+            ]
+          ],
+          "width": 181.51,
+          "height": 28.11,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 22.73,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0027"
+        },
+        {
+          "type": "text",
+          "value": "Bank:",
+          "x": 42.19,
+          "y": 688.38,
+          "baseline_y": 696.64,
+          "char_origins": [
+            [
+              42.19,
+              "B"
+            ],
+            [
+              48.99,
+              "a"
+            ],
+            [
+              55.8,
+              "n"
+            ],
+            [
+              62.6,
+              "k"
+            ],
+            [
+              69.41,
+              ":"
+            ]
+          ],
+          "width": 33.57,
+          "height": 11.88,
+          "font_family": "CourierPrime-Bold",
+          "font_size": 10.58,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0028"
+        },
+        {
+          "type": "text",
+          "value": "Borcelle Bank",
+          "x": 80.91,
+          "y": 688.38,
+          "baseline_y": 696.64,
+          "char_origins": [
+            [
+              80.91,
+              "B"
+            ],
+            [
+              87.72,
+              "o"
+            ],
+            [
+              94.53,
+              "r"
+            ],
+            [
+              101.33,
+              "c"
+            ],
+            [
+              108.14,
+              "e"
+            ],
+            [
+              114.94,
+              "l"
+            ],
+            [
+              121.75,
+              "l"
+            ],
+            [
+              128.56,
+              "e"
+            ],
+            [
+              135.36,
+              " "
+            ],
+            [
+              142.17,
+              "B"
+            ],
+            [
+              148.97,
+              "a"
+            ],
+            [
+              155.78,
+              "n"
+            ],
+            [
+              162.59,
+              "k"
+            ]
+          ],
+          "width": 88.02,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0029"
+        },
+        {
+          "type": "text",
+          "value": "Name:",
+          "x": 42.19,
+          "y": 702.63,
+          "baseline_y": 710.89,
+          "char_origins": [
+            [
+              42.19,
+              "N"
+            ],
+            [
+              48.99,
+              "a"
+            ],
+            [
+              55.8,
+              "m"
+            ],
+            [
+              62.6,
+              "e"
+            ],
+            [
+              69.41,
+              ":"
+            ]
+          ],
+          "width": 33.57,
+          "height": 11.88,
+          "font_family": "CourierPrime-Bold",
+          "font_size": 10.58,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0030"
+        },
+        {
+          "type": "text",
+          "value": "Margarita Perez",
+          "x": 80.91,
+          "y": 702.63,
+          "baseline_y": 710.89,
+          "char_origins": [
+            [
+              80.91,
+              "M"
+            ],
+            [
+              87.72,
+              "a"
+            ],
+            [
+              94.53,
+              "r"
+            ],
+            [
+              101.33,
+              "g"
+            ],
+            [
+              108.14,
+              "a"
+            ],
+            [
+              114.94,
+              "r"
+            ],
+            [
+              121.75,
+              "i"
+            ],
+            [
+              128.56,
+              "t"
+            ],
+            [
+              135.36,
+              "a"
+            ],
+            [
+              142.17,
+              " "
+            ],
+            [
+              148.97,
+              "P"
+            ],
+            [
+              155.78,
+              "e"
+            ],
+            [
+              162.59,
+              "r"
+            ],
+            [
+              169.39,
+              "e"
+            ],
+            [
+              176.2,
+              "z"
+            ]
+          ],
+          "width": 101.63,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0031"
+        },
+        {
+          "type": "text",
+          "value": "Account:",
+          "x": 42.19,
+          "y": 717.01,
+          "baseline_y": 725.28,
+          "char_origins": [
+            [
+              42.19,
+              "A"
+            ],
+            [
+              48.99,
+              "c"
+            ],
+            [
+              55.8,
+              "c"
+            ],
+            [
+              62.6,
+              "o"
+            ],
+            [
+              69.41,
+              "u"
+            ],
+            [
+              76.22,
+              "n"
+            ],
+            [
+              83.02,
+              "t"
+            ],
+            [
+              89.83,
+              ":"
+            ]
+          ],
+          "width": 53.99,
+          "height": 11.88,
+          "font_family": "CourierPrime-Bold",
+          "font_size": 10.58,
+          "font_weight": "bold",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Bold",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0032"
+        },
+        {
+          "type": "text",
+          "value": "0123 4567 8901",
+          "x": 101.65,
+          "y": 717.01,
+          "baseline_y": 725.28,
+          "char_origins": [
+            [
+              101.65,
+              "0"
+            ],
+            [
+              108.46,
+              "1"
+            ],
+            [
+              115.26,
+              "2"
+            ],
+            [
+              122.07,
+              "3"
+            ],
+            [
+              128.87,
+              " "
+            ],
+            [
+              135.68,
+              "4"
+            ],
+            [
+              142.49,
+              "5"
+            ],
+            [
+              149.29,
+              "6"
+            ],
+            [
+              156.1,
+              "7"
+            ],
+            [
+              162.9,
+              " "
+            ],
+            [
+              169.71,
+              "8"
+            ],
+            [
+              176.52,
+              "9"
+            ],
+            [
+              183.32,
+              "0"
+            ],
+            [
+              190.13,
+              "1"
+            ]
+          ],
+          "width": 94.83,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0033"
+        },
+        {
+          "type": "text",
+          "value": "PAYMENT INFORMATION:",
+          "x": 42.19,
+          "y": 668.04,
+          "baseline_y": 680.04,
+          "char_origins": [
+            [
+              42.19,
+              "P"
+            ],
+            [
+              50.39,
+              "A"
+            ],
+            [
+              59.03,
+              "Y"
+            ],
+            [
+              67.65,
+              "M"
+            ],
+            [
+              79.04,
+              "E"
+            ],
+            [
+              86.53,
+              "N"
+            ],
+            [
+              95.82,
+              "T"
+            ],
+            [
+              103.33,
+              " "
+            ],
+            [
+              106.45,
+              "I"
+            ],
+            [
+              110.05,
+              "N"
+            ],
+            [
+              119.34,
+              "F"
+            ],
+            [
+              126.61,
+              "O"
+            ],
+            [
+              136.53,
+              "R"
+            ],
+            [
+              145.03,
+              "M"
+            ],
+            [
+              156.42,
+              "A"
+            ],
+            [
+              165.06,
+              "T"
+            ],
+            [
+              172.57,
+              "I"
+            ],
+            [
+              176.17,
+              "O"
+            ],
+            [
+              186.08,
+              "N"
+            ],
+            [
+              195.38,
+              ":"
+            ]
+          ],
+          "width": 156.37,
+          "height": 14.85,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0034"
+        },
+        {
+          "type": "text",
+          "value": "+123-456-7890",
+          "x": 439.91,
+          "y": 93.66,
+          "baseline_y": 102.68,
+          "char_origins": [
+            [
+              439.91,
+              "+"
+            ],
+            [
+              447.31,
+              "1"
+            ],
+            [
+              454.71,
+              "2"
+            ],
+            [
+              462.12,
+              "3"
+            ],
+            [
+              469.52,
+              "-"
+            ],
+            [
+              476.92,
+              "4"
+            ],
+            [
+              484.32,
+              "5"
+            ],
+            [
+              491.72,
+              "6"
+            ],
+            [
+              499.13,
+              "-"
+            ],
+            [
+              506.53,
+              "7"
+            ],
+            [
+              513.93,
+              "8"
+            ],
+            [
+              521.33,
+              "9"
+            ],
+            [
+              528.73,
+              "0"
+            ]
+          ],
+          "width": 95.75,
+          "height": 12.97,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0035"
+        },
+        {
+          "type": "text",
+          "value": "123 Anywhere St., Any City",
+          "x": 343.69,
+          "y": 109.42,
+          "baseline_y": 118.44,
+          "char_origins": [
+            [
+              343.69,
+              "1"
+            ],
+            [
+              351.09,
+              "2"
+            ],
+            [
+              358.49,
+              "3"
+            ],
+            [
+              365.89,
+              " "
+            ],
+            [
+              373.29,
+              "A"
+            ],
+            [
+              380.7,
+              "n"
+            ],
+            [
+              388.1,
+              "y"
+            ],
+            [
+              395.5,
+              "w"
+            ],
+            [
+              402.9,
+              "h"
+            ],
+            [
+              410.3,
+              "e"
+            ],
+            [
+              417.71,
+              "r"
+            ],
+            [
+              425.11,
+              "e"
+            ],
+            [
+              432.51,
+              " "
+            ],
+            [
+              439.91,
+              "S"
+            ],
+            [
+              447.31,
+              "t"
+            ],
+            [
+              454.72,
+              "."
+            ],
+            [
+              462.12,
+              ","
+            ],
+            [
+              469.52,
+              " "
+            ],
+            [
+              476.92,
+              "A"
+            ],
+            [
+              484.32,
+              "n"
+            ],
+            [
+              491.73,
+              "y"
+            ],
+            [
+              499.13,
+              " "
+            ],
+            [
+              506.53,
+              "C"
+            ],
+            [
+              513.93,
+              "i"
+            ],
+            [
+              521.34,
+              "t"
+            ],
+            [
+              528.74,
+              "y"
+            ]
+          ],
+          "width": 191.98,
+          "height": 12.97,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0036"
+        },
+        {
+          "type": "text",
+          "value": "Invoice Number: INV-01234",
+          "x": 42.19,
+          "y": 93.69,
+          "baseline_y": 102.71,
+          "char_origins": [
+            [
+              42.19,
+              "I"
+            ],
+            [
+              49.59,
+              "n"
+            ],
+            [
+              56.99,
+              "v"
+            ],
+            [
+              64.39,
+              "o"
+            ],
+            [
+              71.79,
+              "i"
+            ],
+            [
+              79.2,
+              "c"
+            ],
+            [
+              86.6,
+              "e"
+            ],
+            [
+              94.0,
+              " "
+            ],
+            [
+              101.4,
+              "N"
+            ],
+            [
+              108.81,
+              "u"
+            ],
+            [
+              116.21,
+              "m"
+            ],
+            [
+              123.61,
+              "b"
+            ],
+            [
+              131.01,
+              "e"
+            ],
+            [
+              138.41,
+              "r"
+            ],
+            [
+              145.82,
+              ":"
+            ],
+            [
+              153.22,
+              " "
+            ],
+            [
+              160.62,
+              "I"
+            ],
+            [
+              168.02,
+              "N"
+            ],
+            [
+              175.42,
+              "V"
+            ],
+            [
+              182.83,
+              "-"
+            ],
+            [
+              190.23,
+              "0"
+            ],
+            [
+              197.63,
+              "1"
+            ],
+            [
+              205.03,
+              "2"
+            ],
+            [
+              212.43,
+              "3"
+            ],
+            [
+              219.84,
+              "4"
+            ]
+          ],
+          "width": 184.58,
+          "height": 12.97,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0037"
+        },
+        {
+          "type": "text",
+          "value": "Date: April 11, 2023",
+          "x": 42.19,
+          "y": 109.44,
+          "baseline_y": 118.46,
+          "char_origins": [
+            [
+              42.19,
+              "D"
+            ],
+            [
+              49.59,
+              "a"
+            ],
+            [
+              56.99,
+              "t"
+            ],
+            [
+              64.39,
+              "e"
+            ],
+            [
+              71.79,
+              ":"
+            ],
+            [
+              79.2,
+              " "
+            ],
+            [
+              86.6,
+              "A"
+            ],
+            [
+              94.0,
+              "p"
+            ],
+            [
+              101.4,
+              "r"
+            ],
+            [
+              108.81,
+              "i"
+            ],
+            [
+              116.21,
+              "l"
+            ],
+            [
+              123.61,
+              " "
+            ],
+            [
+              131.01,
+              "1"
+            ],
+            [
+              138.41,
+              "1"
+            ],
+            [
+              145.82,
+              ","
+            ],
+            [
+              153.22,
+              " "
+            ],
+            [
+              160.62,
+              "2"
+            ],
+            [
+              168.02,
+              "0"
+            ],
+            [
+              175.42,
+              "2"
+            ],
+            [
+              182.83,
+              "3"
+            ]
+          ],
+          "width": 147.57,
+          "height": 12.97,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.55,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0038"
+        },
+        {
+          "type": "text",
+          "value": "1.",
+          "x": 47.94,
+          "y": 396.91,
+          "baseline_y": 405.18,
+          "char_origins": [
+            [
+              47.94,
+              "1"
+            ],
+            [
+              54.74,
+              "."
+            ]
+          ],
+          "width": 13.15,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0039"
+        },
+        {
+          "type": "text",
+          "value": "$500",
+          "x": 485.41,
+          "y": 396.91,
+          "baseline_y": 405.18,
+          "char_origins": [
+            [
+              485.41,
+              "$"
+            ],
+            [
+              492.21,
+              "5"
+            ],
+            [
+              499.02,
+              "0"
+            ],
+            [
+              505.82,
+              "0"
+            ]
+          ],
+          "width": 26.77,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0040"
+        },
+        {
+          "type": "text",
+          "value": "$100",
+          "x": 379.41,
+          "y": 396.91,
+          "baseline_y": 405.18,
+          "char_origins": [
+            [
+              379.41,
+              "$"
+            ],
+            [
+              386.22,
+              "1"
+            ],
+            [
+              393.02,
+              "0"
+            ],
+            [
+              399.83,
+              "0"
+            ]
+          ],
+          "width": 26.77,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0041"
+        },
+        {
+          "type": "text",
+          "value": "T O T A L :  $ 6 , 8 7 5",
+          "x": 370.53,
+          "y": 591.64,
+          "baseline_y": 608.18,
+          "char_origins": [
+            [
+              370.53,
+              "T"
+            ],
+            [
+              380.86,
+              " "
+            ],
+            [
+              384.03,
+              "O"
+            ],
+            [
+              397.69,
+              " "
+            ],
+            [
+              400.86,
+              "T"
+            ],
+            [
+              411.2,
+              " "
+            ],
+            [
+              414.37,
+              "A"
+            ],
+            [
+              426.27,
+              " "
+            ],
+            [
+              429.45,
+              "L"
+            ],
+            [
+              438.67,
+              " "
+            ],
+            [
+              441.85,
+              ":"
+            ],
+            [
+              446.23,
+              " "
+            ],
+            [
+              449.4,
+              " "
+            ],
+            [
+              456.88,
+              "$"
+            ],
+            [
+              468.65,
+              " "
+            ],
+            [
+              471.82,
+              "6"
+            ],
+            [
+              482.83,
+              " "
+            ],
+            [
+              486.01,
+              ","
+            ],
+            [
+              490.57,
+              " "
+            ],
+            [
+              493.74,
+              "8"
+            ],
+            [
+              504.96,
+              " "
+            ],
+            [
+              508.13,
+              "7"
+            ],
+            [
+              517.72,
+              " "
+            ],
+            [
+              520.89,
+              "5"
+            ]
+          ],
+          "width": 161.26,
+          "height": 20.46,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 16.54,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0042"
+        },
+        {
+          "type": "text",
+          "value": "2.",
+          "x": 47.94,
+          "y": 428.46,
+          "baseline_y": 436.73,
+          "char_origins": [
+            [
+              47.94,
+              "2"
+            ],
+            [
+              54.74,
+              "."
+            ]
+          ],
+          "width": 13.15,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0043"
+        },
+        {
+          "type": "text",
+          "value": "$5,000",
+          "x": 372.6,
+          "y": 428.46,
+          "baseline_y": 436.73,
+          "char_origins": [
+            [
+              372.6,
+              "$"
+            ],
+            [
+              379.41,
+              "5"
+            ],
+            [
+              386.22,
+              ","
+            ],
+            [
+              393.02,
+              "0"
+            ],
+            [
+              399.83,
+              "0"
+            ],
+            [
+              406.63,
+              "0"
+            ]
+          ],
+          "width": 40.38,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0044"
+        },
+        {
+          "type": "text",
+          "value": "$5,000",
+          "x": 478.6,
+          "y": 428.46,
+          "baseline_y": 436.73,
+          "char_origins": [
+            [
+              478.6,
+              "$"
+            ],
+            [
+              485.4,
+              "5"
+            ],
+            [
+              492.21,
+              ","
+            ],
+            [
+              499.02,
+              "0"
+            ],
+            [
+              505.82,
+              "0"
+            ],
+            [
+              512.63,
+              "0"
+            ]
+          ],
+          "width": 40.38,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0045"
+        },
+        {
+          "type": "text",
+          "value": "3.",
+          "x": 47.94,
+          "y": 460.9,
+          "baseline_y": 469.16,
+          "char_origins": [
+            [
+              47.94,
+              "3"
+            ],
+            [
+              54.74,
+              "."
+            ]
+          ],
+          "width": 13.15,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0046"
+        },
+        {
+          "type": "text",
+          "value": "$250",
+          "x": 485.41,
+          "y": 460.9,
+          "baseline_y": 469.16,
+          "char_origins": [
+            [
+              485.41,
+              "$"
+            ],
+            [
+              492.21,
+              "2"
+            ],
+            [
+              499.02,
+              "5"
+            ],
+            [
+              505.82,
+              "0"
+            ]
+          ],
+          "width": 26.77,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0047"
+        },
+        {
+          "type": "text",
+          "value": "$50",
+          "x": 382.81,
+          "y": 460.9,
+          "baseline_y": 469.16,
+          "char_origins": [
+            [
+              382.81,
+              "$"
+            ],
+            [
+              389.62,
+              "5"
+            ],
+            [
+              396.42,
+              "0"
+            ]
+          ],
+          "width": 19.96,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0048"
+        },
+        {
+          "type": "text",
+          "value": "Sub Total:",
+          "x": 299.26,
+          "y": 506.11,
+          "baseline_y": 514.7,
+          "char_origins": [
+            [
+              299.26,
+              "S"
+            ],
+            [
+              305.86,
+              "u"
+            ],
+            [
+              312.45,
+              "b"
+            ],
+            [
+              319.04,
+              " "
+            ],
+            [
+              325.64,
+              "T"
+            ],
+            [
+              332.23,
+              "o"
+            ],
+            [
+              338.82,
+              "t"
+            ],
+            [
+              345.42,
+              "a"
+            ],
+            [
+              352.01,
+              "l"
+            ],
+            [
+              358.6,
+              ":"
+            ]
+          ],
+          "width": 65.94,
+          "height": 12.35,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#2C2D2D",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0049"
+        },
+        {
+          "type": "text",
+          "value": "$6,250",
+          "x": 478.62,
+          "y": 506.11,
+          "baseline_y": 514.7,
+          "char_origins": [
+            [
+              478.62,
+              "$"
+            ],
+            [
+              485.22,
+              "6"
+            ],
+            [
+              491.81,
+              ","
+            ],
+            [
+              498.4,
+              "2"
+            ],
+            [
+              505.0,
+              "5"
+            ],
+            [
+              511.59,
+              "0"
+            ]
+          ],
+          "width": 39.57,
+          "height": 12.35,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#2C2D2D",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0050"
+        },
+        {
+          "type": "text",
+          "value": "Sales Tax:",
+          "x": 299.26,
+          "y": 531.29,
+          "baseline_y": 539.88,
+          "char_origins": [
+            [
+              299.26,
+              "S"
+            ],
+            [
+              305.86,
+              "a"
+            ],
+            [
+              312.45,
+              "l"
+            ],
+            [
+              319.04,
+              "e"
+            ],
+            [
+              325.64,
+              "s"
+            ],
+            [
+              332.23,
+              " "
+            ],
+            [
+              338.82,
+              "T"
+            ],
+            [
+              345.42,
+              "a"
+            ],
+            [
+              352.01,
+              "x"
+            ],
+            [
+              358.6,
+              ":"
+            ]
+          ],
+          "width": 65.94,
+          "height": 12.35,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#2C2D2D",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0051"
+        },
+        {
+          "type": "text",
+          "value": "$625",
+          "x": 491.81,
+          "y": 531.29,
+          "baseline_y": 539.88,
+          "char_origins": [
+            [
+              491.81,
+              "$"
+            ],
+            [
+              498.41,
+              "6"
+            ],
+            [
+              505.0,
+              "2"
+            ],
+            [
+              511.59,
+              "5"
+            ]
+          ],
+          "width": 26.38,
+          "height": 12.35,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 11.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#2C2D2D",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0052"
+        },
+        {
+          "type": "text",
+          "value": "TERM AND CONDITIONS:",
+          "x": 42.19,
+          "y": 750.92,
+          "baseline_y": 762.93,
+          "char_origins": [
+            [
+              42.19,
+              "T"
+            ],
+            [
+              49.69,
+              "E"
+            ],
+            [
+              57.18,
+              "R"
+            ],
+            [
+              65.68,
+              "M"
+            ],
+            [
+              77.07,
+              " "
+            ],
+            [
+              80.19,
+              "A"
+            ],
+            [
+              88.84,
+              "N"
+            ],
+            [
+              98.13,
+              "D"
+            ],
+            [
+              106.84,
+              " "
+            ],
+            [
+              109.96,
+              "C"
+            ],
+            [
+              119.32,
+              "O"
+            ],
+            [
+              129.23,
+              "N"
+            ],
+            [
+              138.52,
+              "D"
+            ],
+            [
+              147.24,
+              "I"
+            ],
+            [
+              150.84,
+              "T"
+            ],
+            [
+              158.34,
+              "I"
+            ],
+            [
+              161.94,
+              "O"
+            ],
+            [
+              171.86,
+              "N"
+            ],
+            [
+              181.15,
+              "S"
+            ],
+            [
+              189.7,
+              ":"
+            ]
+          ],
+          "width": 150.69,
+          "height": 14.85,
+          "font_family": "OpenSauceOne-Black",
+          "font_size": 12.0,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "OpenSauceOne-Black",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0053"
+        },
+        {
+          "type": "text",
+          "value": "Payment is due 30 days from the invoice date.",
+          "x": 42.19,
+          "y": 769.64,
+          "baseline_y": 777.91,
+          "char_origins": [
+            [
+              42.19,
+              "P"
+            ],
+            [
+              48.99,
+              "a"
+            ],
+            [
+              55.8,
+              "y"
+            ],
+            [
+              62.6,
+              "m"
+            ],
+            [
+              69.41,
+              "e"
+            ],
+            [
+              76.22,
+              "n"
+            ],
+            [
+              83.02,
+              "t"
+            ],
+            [
+              89.83,
+              " "
+            ],
+            [
+              96.63,
+              "i"
+            ],
+            [
+              103.44,
+              "s"
+            ],
+            [
+              110.25,
+              " "
+            ],
+            [
+              117.05,
+              "d"
+            ],
+            [
+              123.86,
+              "u"
+            ],
+            [
+              130.66,
+              "e"
+            ],
+            [
+              137.47,
+              " "
+            ],
+            [
+              144.28,
+              "3"
+            ],
+            [
+              151.08,
+              "0"
+            ],
+            [
+              157.89,
+              " "
+            ],
+            [
+              164.69,
+              "d"
+            ],
+            [
+              171.5,
+              "a"
+            ],
+            [
+              178.31,
+              "y"
+            ],
+            [
+              185.11,
+              "s"
+            ],
+            [
+              191.92,
+              " "
+            ],
+            [
+              198.72,
+              "f"
+            ],
+            [
+              205.53,
+              "r"
+            ],
+            [
+              212.34,
+              "o"
+            ],
+            [
+              219.14,
+              "m"
+            ],
+            [
+              225.95,
+              " "
+            ],
+            [
+              232.75,
+              "t"
+            ],
+            [
+              239.56,
+              "h"
+            ],
+            [
+              246.37,
+              "e"
+            ],
+            [
+              253.17,
+              " "
+            ],
+            [
+              259.98,
+              "i"
+            ],
+            [
+              266.78,
+              "n"
+            ],
+            [
+              273.59,
+              "v"
+            ],
+            [
+              280.4,
+              "o"
+            ],
+            [
+              287.2,
+              "i"
+            ],
+            [
+              294.01,
+              "c"
+            ],
+            [
+              300.81,
+              "e"
+            ],
+            [
+              307.62,
+              " "
+            ],
+            [
+              314.43,
+              "d"
+            ],
+            [
+              321.23,
+              "a"
+            ],
+            [
+              328.04,
+              "t"
+            ],
+            [
+              334.84,
+              "e"
+            ],
+            [
+              341.65,
+              "."
+            ]
+          ],
+          "width": 305.81,
+          "height": 11.88,
+          "font_family": "CourierPrime-Regular",
+          "font_size": 10.58,
+          "font_weight": "normal",
+          "font_style": "normal",
+          "color": "#000000",
+          "direction": "ltr",
+          "font_is_subset": false,
+          "font_base_name": "CourierPrime-Regular",
+          "font_fallback": "Helvetica",
+          "alignment": "left",
+          "origin": "pymupdf",
+          "id": "p1_elem_0054"
+        },
+        {
+          "type": "table",
+          "x": 32.06,
+          "y": -168.17,
+          "width": 519.77,
+          "height": 178.62,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0055"
+        },
+        {
+          "type": "table",
+          "x": 32.06,
+          "y": 815.03,
+          "width": 519.77,
+          "height": 178.62,
+          "columns": 1,
+          "rows": 1,
+          "headers": [
+            ""
+          ],
+          "cells": [
+            [
+              ""
+            ]
+          ],
+          "origin": "pdfplumber",
+          "id": "p1_elem_0056"
+        }
+      ]
+    }
+  ]
+}
